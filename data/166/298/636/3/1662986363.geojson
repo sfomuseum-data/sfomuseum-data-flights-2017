@@ -1,0 +1,76 @@
+{
+  "id": 1662986363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-01-04~",
+    "edtf:inception": "2017-01-04T11:56:15",
+    "flysfo:airline": "SQ",
+    "flysfo:date": "2017-01-04",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "SQ7971",
+    "flysfo:journey": "SFO-EBBR",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,4.485874,50.898393",
+    "geom:latitude": 44.258191499999995,
+    "geom:longitude": -58.9425345,
+    "iata:airline": "SQ",
+    "icao:aircraft": "B744",
+    "icao:airline": "SQC",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289915,
+    "sfomuseum:airline_id": 1159285165,
+    "sfomuseum:arrival_id": 102546425,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20170104-D-SQC-7971",
+    "sfomuseum:flight_number": [
+      "SQ7971", 
+      "SQC7971"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102087579, 
+      1159157271, 
+      85922583, 
+      85633793, 
+      85688637, 
+      102527513, 
+      102191575, 
+      1662986363
+    ],
+    "wof:country": "US",
+    "wof:created": 1583174330,
+    "wof:geomhash": "4e4277037fac3a48b51edb7753019049",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1662986363,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1662986363,
+    "wof:lastmodified": 1583174330,
+    "wof:name": "SQC7971 (SFO-EBBR)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2017",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    4.485874, 
+    50.898393
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[4.485874,50.898393]],"type":"MultiPoint"}
+}

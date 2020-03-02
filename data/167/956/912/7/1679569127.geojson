@@ -1,0 +1,76 @@
+{
+  "id": 1679569127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-06-22T21:54:54",
+    "edtf:inception": "2017-06-22~",
+    "flysfo:airline": "UA",
+    "flysfo:date": "2017-06-22",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2584",
+    "flysfo:journey": "KRCA-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-103.086126,44.147534",
+    "geom:latitude": 40.882762,
+    "geom:longitude": -112.7285345,
+    "iata:airline": "UA",
+    "icao:aircraft": "B744",
+    "icao:airline": "UAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289915,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102525005,
+    "sfomuseum:flight_id": "20170622-A-UAL-2584",
+    "sfomuseum:flight_number": [
+      "UA2584", 
+      "UAL2584"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102527513, 
+      102087579, 
+      85688637, 
+      1159157271, 
+      85633793, 
+      102191575, 
+      1679569127, 
+      85922583
+    ],
+    "wof:country": "US",
+    "wof:created": 1583177106,
+    "wof:geomhash": "2bda52d8917dd4f29e55c4b2cd46dede",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679569127,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679569127,
+    "wof:lastmodified": 1583177106,
+    "wof:name": "UAL2584 (KRCA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2017",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -103.086126, 
+    44.147534
+  ],
+  "geometry": {"coordinates":[[-103.086126,44.147534],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

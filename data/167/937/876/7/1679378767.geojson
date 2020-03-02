@@ -1,0 +1,76 @@
+{
+  "id": 1679378767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-05-02~",
+    "edtf:inception": "2017-05-02T17:12:15",
+    "flysfo:airline": "VI",
+    "flysfo:date": "2017-05-02",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "VI4819",
+    "flysfo:journey": "SFO-KISO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.331402,-77.608803,37.617990",
+    "geom:latitude": 36.474695999999994,
+    "geom:longitude": -99.98987299999999,
+    "iata:airline": "VI",
+    "icao:aircraft": "A124",
+    "icao:airline": "VDA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289479,
+    "sfomuseum:airline_id": 1159285493,
+    "sfomuseum:arrival_id": 102532971,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20170502-D-VDA-4819",
+    "sfomuseum:flight_number": [
+      "VI4819", 
+      "VDA4819"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      1679378767, 
+      85688637, 
+      102527513, 
+      102087579, 
+      1159157271, 
+      85922583, 
+      102191575
+    ],
+    "wof:country": "US",
+    "wof:created": 1583176187,
+    "wof:geomhash": "b4623abb1146fc30bac97c54e64fb2e9",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679378767,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679378767,
+    "wof:lastmodified": 1583176187,
+    "wof:name": "VDA4819 (SFO-KISO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2017",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    35.331402, 
+    -77.608803, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.608803,35.331402]],"type":"MultiPoint"}
+}

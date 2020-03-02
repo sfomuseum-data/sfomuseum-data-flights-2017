@@ -1,0 +1,76 @@
+{
+  "id": 1679025377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2017-03-10~",
+    "edtf:inception": "2017-03-10T17:22:18",
+    "flysfo:airline": "B6",
+    "flysfo:date": "2017-03-10",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "B6188",
+    "flysfo:journey": "SFO-KLAS",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "B6",
+    "icao:aircraft": "A320",
+    "icao:airline": "JBU",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159292085,
+    "sfomuseum:airline_id": 1360700745,
+    "sfomuseum:arrival_id": 102527209,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20170310-D-JBU-188",
+    "sfomuseum:flight_number": [
+      "B6188", 
+      "JBU188"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1679025377, 
+      102087579, 
+      85922583, 
+      1159157271, 
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1583175303,
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679025377,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679025377,
+    "wof:lastmodified": 1583175303,
+    "wof:name": "JBU188 (SFO-KLAS)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2017",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    36.081003, 
+    -115.15644, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
+}
