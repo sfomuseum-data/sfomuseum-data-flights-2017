@@ -2,6 +2,10 @@
   "id": 1662980083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-02",
+    "date:inception_upper": "2017-01-02",
     "edtf:cessation": "2017-01-02~",
     "edtf:inception": "2017-01-02T16:00:10",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170102-D-SWA-9035",
     "sfomuseum:flight_number": [
-      "WN9035", 
+      "WN9035",
       "SWA9035"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1662980083, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662980083,
-    "wof:lastmodified": 1583174301,
+    "wof:lastmodified": 1717022908,
     "wof:name": "SWA9035 (SFO-KPHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679097883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-21",
+    "date:cessation_upper": "2017-03-21",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-21T17:44:38",
     "edtf:inception": "2017-03-21~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20170321-A-VRD-8854",
     "sfomuseum:flight_number": [
-      "VX8854", 
+      "VX8854",
       "VRD8854"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      1679097883, 
-      102191575, 
-      102087579, 
+      85688637,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679097883,
-    "wof:lastmodified": 1583175476,
+    "wof:lastmodified": 1717022863,
     "wof:name": "VRD8854 (KBOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

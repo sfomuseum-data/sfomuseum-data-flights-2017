@@ -2,6 +2,10 @@
   "id": 1662900483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-27",
+    "date:inception_upper": "2017-11-27",
     "edtf:cessation": "2017-11-27~",
     "edtf:inception": "2017-11-27T22:09:56",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171127-D-VRD-1974",
     "sfomuseum:flight_number": [
-      "VX1974", 
+      "VX1974",
       "VRD1974"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      1662900483, 
-      85922583, 
-      102527513, 
+      102191575,
+      85688637,
+      1159157271,
+      85633793,
+      85922583,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662900483,
-    "wof:lastmodified": 1583180230,
+    "wof:lastmodified": 1717022905,
     "wof:name": "VRD1974 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

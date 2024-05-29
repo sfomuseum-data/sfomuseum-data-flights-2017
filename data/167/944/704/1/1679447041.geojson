@@ -2,6 +2,10 @@
   "id": 1679447041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-21",
+    "date:cessation_upper": "2017-05-21",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-21T11:12:36",
     "edtf:inception": "2017-05-21~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20170521-A-SWA-4326",
     "sfomuseum:flight_number": [
-      "WN4326", 
+      "WN4326",
       "SWA4326"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1679447041, 
-      85922583, 
+      85633793,
+      1159157271,
+      102087579,
+      85688637,
+      102191575,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679447041,
-    "wof:lastmodified": 1583176511,
+    "wof:lastmodified": 1717022874,
     "wof:name": "SWA4326 (KBUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

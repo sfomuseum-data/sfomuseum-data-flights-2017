@@ -2,6 +2,10 @@
   "id": 1695601693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-04",
+    "date:cessation_upper": "2017-09-04",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-04T06:23:13",
     "edtf:inception": "2017-09-04~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525535,
     "sfomuseum:flight_id": "20170904-A-UAL-1915",
     "sfomuseum:flight_number": [
-      "UA1915", 
+      "UA1915",
       "UAL1915"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1695601693
+      85633793,
+      1159157271,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583178579,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695601693,
-    "wof:lastmodified": 1583178579,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL1915 (KRNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}

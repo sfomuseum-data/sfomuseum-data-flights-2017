@@ -2,6 +2,10 @@
   "id": 1712347399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-24",
+    "date:inception_upper": "2017-12-24",
     "edtf:cessation": "2017-12-24~",
     "edtf:inception": "2017-12-24T05:39:25",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171224-D-UAL-2405",
     "sfomuseum:flight_number": [
-      "UA2405", 
+      "UA2405",
       "UAL2405"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      1712347399
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      1159157271,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583180757,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712347399,
-    "wof:lastmodified": 1583180757,
+    "wof:lastmodified": 1717022849,
     "wof:name": "UAL2405 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

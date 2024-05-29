@@ -2,6 +2,10 @@
   "id": 1678849831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-09",
+    "date:inception_upper": "2017-02-09",
     "edtf:cessation": "2017-02-09~",
     "edtf:inception": "2017-02-09T08:10:22",
     "flysfo:airline": "KZ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170209-D-NCA-109",
     "sfomuseum:flight_number": [
-      "KZ109", 
+      "KZ109",
       "NCA109"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1678849831
+      1159157271,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583174840,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678849831,
-    "wof:lastmodified": 1583174840,
+    "wof:lastmodified": 1717022851,
     "wof:name": "NCA109 (SFO-RJAA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}

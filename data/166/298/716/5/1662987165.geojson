@@ -2,6 +2,10 @@
   "id": 1662987165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-04",
+    "date:cessation_upper": "2017-01-04",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-04T16:14:05",
     "edtf:inception": "2017-01-04~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170104-A-SWA-1298",
     "sfomuseum:flight_number": [
-      "WN1298", 
+      "WN1298",
       "SWA1298"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      102527513, 
-      1662987165
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
+      102191575,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583174334,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662987165,
-    "wof:lastmodified": 1583174334,
+    "wof:lastmodified": 1717022912,
     "wof:name": "SWA1298 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

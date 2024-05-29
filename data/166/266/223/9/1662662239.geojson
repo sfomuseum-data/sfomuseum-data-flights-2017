@@ -2,6 +2,10 @@
   "id": 1662662239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-12",
+    "date:cessation_upper": "2017-09-12",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-12T00:24:57",
     "edtf:inception": "2017-09-12~",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20170912-A-ACA-739",
     "sfomuseum:flight_number": [
-      "AC739", 
+      "AC739",
       "ACA739"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1662662239
+      1159157271,
+      102191575,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583178727,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662662239,
-    "wof:lastmodified": 1583178727,
+    "wof:lastmodified": 1717022848,
     "wof:name": "ACA739 (KSJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1678815887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-02",
+    "date:cessation_upper": "2017-02-02",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-02T21:14:39",
     "edtf:inception": "2017-02-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532929,
     "sfomuseum:flight_id": "20170202-A-UAL-1728",
     "sfomuseum:flight_number": [
-      "UA1728", 
+      "UA1728",
       "UAL1728"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1678815887, 
-      102087579, 
-      85688637, 
-      85633793, 
-      85922583, 
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678815887,
-    "wof:lastmodified": 1583174750,
+    "wof:lastmodified": 1717022848,
     "wof:name": "UAL1728 (PHOG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}

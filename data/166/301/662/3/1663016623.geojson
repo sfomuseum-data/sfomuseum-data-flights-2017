@@ -2,6 +2,10 @@
   "id": 1663016623,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-14",
+    "date:inception_upper": "2017-01-14",
     "edtf:cessation": "2017-01-14~",
     "edtf:inception": "2017-01-14T11:16:33",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170114-D-UAL-893",
     "sfomuseum:flight_number": [
-      "UA893", 
+      "UA893",
       "UAL893"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102191575, 
-      1159157271, 
-      1663016623, 
-      85922583, 
-      102087579, 
+      102527513,
+      85633793,
+      102191575,
+      1159157271,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663016623,
-    "wof:lastmodified": 1583174471,
+    "wof:lastmodified": 1717022915,
     "wof:name": "UAL893 (SFO-RKSI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[126.661632,37.453966]],"type":"MultiPoint"}

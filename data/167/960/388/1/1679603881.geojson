@@ -2,6 +2,10 @@
   "id": 1679603881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-01",
+    "date:cessation_upper": "2017-07-01",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-01T11:30:53",
     "edtf:inception": "2017-07-01~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20170701-A-DAL-1938",
     "sfomuseum:flight_number": [
-      "DL1938", 
+      "DL1938",
       "DAL1938"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85633793, 
-      1679603881
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583177276,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679603881,
-    "wof:lastmodified": 1583177276,
+    "wof:lastmodified": 1717022880,
     "wof:name": "DAL1938 (KMSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

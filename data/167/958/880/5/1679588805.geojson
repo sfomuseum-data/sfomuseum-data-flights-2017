@@ -2,6 +2,10 @@
   "id": 1679588805,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-27",
+    "date:cessation_upper": "2017-06-27",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-27T18:53:04",
     "edtf:inception": "2017-06-27~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20170627-A-AAL-705",
     "sfomuseum:flight_number": [
-      "AA705", 
+      "AA705",
       "AAL705"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1679588805, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85688637, 
+      85922583,
+      85633793,
+      102527513,
+      102191575,
+      1159157271,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679588805,
-    "wof:lastmodified": 1583177201,
+    "wof:lastmodified": 1717022881,
     "wof:name": "AAL705 (KCLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

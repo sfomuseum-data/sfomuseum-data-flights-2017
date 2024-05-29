@@ -2,6 +2,10 @@
   "id": 1662885455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-24",
+    "date:cessation_upper": "2017-11-24",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-24T08:29:43",
     "edtf:inception": "2017-11-24~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20171124-A-UAL-392",
     "sfomuseum:flight_number": [
-      "UA392", 
+      "UA392",
       "UAL392"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1662885455
+      102191575,
+      1159157271,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583180125,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662885455,
-    "wof:lastmodified": 1583180125,
+    "wof:lastmodified": 1717022908,
     "wof:name": "UAL392 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

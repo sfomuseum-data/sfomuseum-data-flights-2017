@@ -2,6 +2,10 @@
   "id": 1678841565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-07",
+    "date:cessation_upper": "2017-02-07",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-07T15:44:41",
     "edtf:inception": "2017-02-07~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20170207-A-VRD-715",
     "sfomuseum:flight_number": [
-      "VX715", 
+      "VX715",
       "VRD715"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85688637, 
-      1678841565, 
-      102191575, 
-      102527513, 
-      102087579, 
+      85922583,
+      1159157271,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678841565,
-    "wof:lastmodified": 1583174818,
+    "wof:lastmodified": 1717022849,
     "wof:name": "VRD715 (KDAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

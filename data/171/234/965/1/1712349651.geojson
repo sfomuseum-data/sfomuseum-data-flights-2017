@@ -2,6 +2,10 @@
   "id": 1712349651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-26",
+    "date:cessation_upper": "2017-12-26",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-26T10:08:00",
     "edtf:inception": "2017-12-26~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171226-A-UAL-1626",
     "sfomuseum:flight_number": [
-      "UA1626", 
+      "UA1626",
       "UAL1626"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1712349651
+      85688637,
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583180792,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712349651,
-    "wof:lastmodified": 1583180792,
+    "wof:lastmodified": 1717022851,
     "wof:name": "UAL1626 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

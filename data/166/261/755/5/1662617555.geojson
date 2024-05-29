@@ -2,6 +2,10 @@
   "id": 1662617555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-24",
+    "date:cessation_upper": "2017-05-24",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-24T08:01:56",
     "edtf:inception": "2017-05-24~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170524-A-SWA-1548",
     "sfomuseum:flight_number": [
-      "WN1548", 
+      "WN1548",
       "SWA1548"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1159157271, 
-      1662617555, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662617555,
-    "wof:lastmodified": 1583176562,
+    "wof:lastmodified": 1717022900,
     "wof:name": "SWA1548 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

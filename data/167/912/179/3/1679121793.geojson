@@ -2,6 +2,10 @@
   "id": 1679121793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-25",
+    "date:cessation_upper": "2017-03-25",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-25T09:44:31",
     "edtf:inception": "2017-03-25~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20170325-A-AAL-1145",
     "sfomuseum:flight_number": [
-      "AA1145", 
+      "AA1145",
       "AAL1145"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1679121793, 
-      1159157271, 
-      102527513, 
+      85922583,
+      85633793,
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679121793,
-    "wof:lastmodified": 1583175535,
+    "wof:lastmodified": 1717022862,
     "wof:name": "AAL1145 (KORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

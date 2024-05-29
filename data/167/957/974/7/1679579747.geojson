@@ -2,6 +2,10 @@
   "id": 1679579747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-25",
+    "date:cessation_upper": "2017-06-25",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-25T15:32:04",
     "edtf:inception": "2017-06-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170625-A-SWA-4981",
     "sfomuseum:flight_number": [
-      "WN4981", 
+      "WN4981",
       "SWA4981"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679579747, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159157271, 
-      102191575, 
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679579747,
-    "wof:lastmodified": 1583177156,
+    "wof:lastmodified": 1717022882,
     "wof:name": "SWA4981 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

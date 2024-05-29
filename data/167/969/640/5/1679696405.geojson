@@ -2,6 +2,10 @@
   "id": 1679696405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-24",
+    "date:cessation_upper": "2017-07-24",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-24T07:58:11",
     "edtf:inception": "2017-07-24~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534019,
     "sfomuseum:flight_id": "20170724-A-FFT-1413",
     "sfomuseum:flight_number": [
-      "F91413", 
+      "F91413",
       "FFT1413"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102087579, 
-      1679696405, 
-      85922583, 
-      85688637, 
-      102191575, 
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679696405,
-    "wof:lastmodified": 1583177723,
+    "wof:lastmodified": 1717022886,
     "wof:name": "FFT1413 (KCLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}

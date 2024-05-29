@@ -2,6 +2,10 @@
   "id": 1678987511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-05",
+    "date:cessation_upper": "2017-03-05",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-05T12:08:18",
     "edtf:inception": "2017-03-05~",
     "flysfo:airline": "JL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541591,
     "sfomuseum:flight_id": "20170305-A-JAL-2",
     "sfomuseum:flight_number": [
-      "JL2", 
+      "JL2",
       "JAL2"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      1678987511, 
-      85922583, 
-      85688637, 
+      85633793,
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678987511,
-    "wof:lastmodified": 1583175215,
+    "wof:lastmodified": 1717022860,
     "wof:name": "JAL2 (RJTT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.554085, 
-    139.775638, 
+    -122.370943,
+    35.554085,
+    139.775638,
     37.61799
   ],
   "geometry": {"coordinates":[[139.775638,35.554085],[-122.370943,37.61799]],"type":"MultiPoint"}

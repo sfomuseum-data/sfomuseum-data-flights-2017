@@ -2,6 +2,10 @@
   "id": 1678835661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-06",
+    "date:inception_upper": "2017-02-06",
     "edtf:cessation": "2017-02-06~",
     "edtf:inception": "2017-02-06T11:12:17",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170206-D-UAL-223",
     "sfomuseum:flight_number": [
-      "UA223", 
+      "UA223",
       "UAL223"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      1678835661
+      85688637,
+      85633793,
+      85922583,
+      102191575,
+      1159157271,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583174799,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678835661,
-    "wof:lastmodified": 1583174799,
+    "wof:lastmodified": 1717022850,
     "wof:name": "UAL223 (SFO-KDEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

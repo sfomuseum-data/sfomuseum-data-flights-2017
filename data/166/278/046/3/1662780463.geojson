@@ -2,6 +2,10 @@
   "id": 1662780463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-25",
+    "date:cessation_upper": "2017-10-25",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-25T14:11:27",
     "edtf:inception": "2017-10-25~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171025-A-UAL-1492",
     "sfomuseum:flight_number": [
-      "UA1492", 
+      "UA1492",
       "UAL1492"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662780463, 
-      85688637, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662780463,
-    "wof:lastmodified": 1583179582,
+    "wof:lastmodified": 1717022900,
     "wof:name": "UAL1492 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

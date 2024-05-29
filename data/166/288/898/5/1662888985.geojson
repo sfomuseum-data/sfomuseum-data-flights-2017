@@ -2,6 +2,10 @@
   "id": 1662888985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-25",
+    "date:cessation_upper": "2017-11-25",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-25T09:38:54",
     "edtf:inception": "2017-11-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171125-A-SWA-3710",
     "sfomuseum:flight_number": [
-      "WN3710", 
+      "WN3710",
       "SWA3710"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102191575, 
-      1662888985, 
-      85688637, 
-      102527513, 
-      85633793, 
+      1159157271,
+      85922583,
+      102191575,
+      85688637,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662888985,
-    "wof:lastmodified": 1583180143,
+    "wof:lastmodified": 1717022910,
     "wof:name": "SWA3710 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

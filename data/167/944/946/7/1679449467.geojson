@@ -2,6 +2,10 @@
   "id": 1679449467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-22",
+    "date:cessation_upper": "2017-05-22",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-22T00:47:47",
     "edtf:inception": "2017-05-22~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20170522-A-SWA-49",
     "sfomuseum:flight_number": [
-      "WN49", 
+      "WN49",
       "SWA49"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102191575, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679449467
+      1159157271,
+      85922583,
+      102191575,
+      85688637,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583176523,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679449467,
-    "wof:lastmodified": 1583176523,
+    "wof:lastmodified": 1717022875,
     "wof:name": "SWA49 (KDAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

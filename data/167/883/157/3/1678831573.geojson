@@ -2,6 +2,10 @@
   "id": 1678831573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-05",
+    "date:cessation_upper": "2017-02-05",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-05T20:08:14",
     "edtf:inception": "2017-02-05~",
     "flysfo:airline": "CX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20170205-A-CPA-872",
     "sfomuseum:flight_number": [
-      "CX872", 
+      "CX872",
       "CPA872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1678831573, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      85922583, 
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
+      102087579,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678831573,
-    "wof:lastmodified": 1583174790,
+    "wof:lastmodified": 1717022849,
     "wof:name": "CPA872 (VHHH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

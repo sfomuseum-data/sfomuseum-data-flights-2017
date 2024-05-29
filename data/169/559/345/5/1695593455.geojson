@@ -2,6 +2,10 @@
   "id": 1695593455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-01",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-01T17:52:44",
     "edtf:inception": "2017-09-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531979,
     "sfomuseum:flight_id": "20170901-A-UAL-2699",
     "sfomuseum:flight_number": [
-      "UA2699", 
+      "UA2699",
       "UAL2699"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      85922583, 
-      102087579, 
-      1695593455
+      102191575,
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583178538,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695593455,
-    "wof:lastmodified": 1583178538,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL2699 (PANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695556641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-24",
+    "date:cessation_upper": "2017-08-24",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-24T10:04:16",
     "edtf:inception": "2017-08-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528181,
     "sfomuseum:flight_id": "20170824-A-UAL-606",
     "sfomuseum:flight_number": [
-      "UA606", 
+      "UA606",
       "UAL606"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      1695556641, 
-      85922583, 
-      102191575, 
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695556641,
-    "wof:lastmodified": 1583178363,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL606 (KPIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}

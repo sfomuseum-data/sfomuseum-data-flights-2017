@@ -2,6 +2,10 @@
   "id": 1678946699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-26",
+    "date:inception_upper": "2017-02-26",
     "edtf:cessation": "2017-02-26~",
     "edtf:inception": "2017-02-26T20:52:47",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170226-D-UAL-1799",
     "sfomuseum:flight_number": [
-      "UA1799", 
+      "UA1799",
       "UAL1799"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1678946699
+      102191575,
+      85688637,
+      1159157271,
+      102527513,
+      102087579,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583175106,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678946699,
-    "wof:lastmodified": 1583175106,
+    "wof:lastmodified": 1717022859,
     "wof:name": "UAL1799 (SFO-KEWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

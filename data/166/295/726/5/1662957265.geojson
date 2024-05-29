@@ -2,6 +2,10 @@
   "id": 1662957265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-13",
+    "date:inception_upper": "2017-12-13",
     "edtf:cessation": "2017-12-13~",
     "edtf:inception": "2017-12-13T13:39:28",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171213-D-UAL-1168",
     "sfomuseum:flight_number": [
-      "UA1168", 
+      "UA1168",
       "UAL1168"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1662957265, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102527513, 
+      85688637,
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662957265,
-    "wof:lastmodified": 1583180517,
+    "wof:lastmodified": 1717022912,
     "wof:name": "UAL1168 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

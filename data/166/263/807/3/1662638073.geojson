@@ -2,6 +2,10 @@
   "id": 1662638073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-15",
+    "date:cessation_upper": "2017-07-15",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-15T22:44:29",
     "edtf:inception": "2017-07-15~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20170715-A-SWA-2839",
     "sfomuseum:flight_number": [
-      "WN2839", 
+      "WN2839",
       "SWA2839"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1662638073
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583177563,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662638073,
-    "wof:lastmodified": 1583177563,
+    "wof:lastmodified": 1717022901,
     "wof:name": "SWA2839 (KPHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

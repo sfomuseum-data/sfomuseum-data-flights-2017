@@ -2,6 +2,10 @@
   "id": 1695584869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-30",
+    "date:inception_upper": "2017-08-30",
     "edtf:cessation": "2017-08-30~",
     "edtf:inception": "2017-08-30T18:24:50",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170830-D-UAL-525",
     "sfomuseum:flight_number": [
-      "UA525", 
+      "UA525",
       "UAL525"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      85633793, 
-      1695584869
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159157271,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583178498,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695584869,
-    "wof:lastmodified": 1583178498,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL525 (SFO-KLAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

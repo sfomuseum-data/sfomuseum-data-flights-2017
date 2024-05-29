@@ -2,6 +2,10 @@
   "id": 1679087139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-20",
+    "date:inception_upper": "2017-03-20",
     "edtf:cessation": "2017-03-20~",
     "edtf:inception": "2017-03-20T08:56:37",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170320-D-UAL-516",
     "sfomuseum:flight_number": [
-      "UA516", 
+      "UA516",
       "UAL516"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      1679087139
+      85688637,
+      102087579,
+      85922583,
+      102191575,
+      1159157271,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583175452,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679087139,
-    "wof:lastmodified": 1583175452,
+    "wof:lastmodified": 1717022863,
     "wof:name": "UAL516 (SFO-KIAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

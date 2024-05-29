@@ -2,6 +2,10 @@
   "id": 1662864011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-17",
+    "date:cessation_upper": "2017-11-17",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-17T08:59:38",
     "edtf:inception": "2017-11-17~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20171117-A-SWA-4979",
     "sfomuseum:flight_number": [
-      "WN4979", 
+      "WN4979",
       "SWA4979"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      1662864011, 
-      85688637, 
+      85922583,
+      102527513,
+      102087579,
+      1159157271,
+      85633793,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662864011,
-    "wof:lastmodified": 1583180014,
+    "wof:lastmodified": 1717022907,
     "wof:name": "SWA4979 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

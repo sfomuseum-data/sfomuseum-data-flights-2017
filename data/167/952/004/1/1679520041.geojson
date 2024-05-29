@@ -2,6 +2,10 @@
   "id": 1679520041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-10",
+    "date:cessation_upper": "2017-06-10",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-10T22:00:15",
     "edtf:inception": "2017-06-10~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20170610-A-JBU-833",
     "sfomuseum:flight_number": [
-      "B6833", 
+      "B6833",
       "JBU833"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      1679520041, 
-      85922583, 
-      102087579, 
-      1159157271, 
+      85688637,
+      102527513,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679520041,
-    "wof:lastmodified": 1583176866,
+    "wof:lastmodified": 1717022875,
     "wof:name": "JBU833 (KBOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

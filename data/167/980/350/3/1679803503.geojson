@@ -2,6 +2,10 @@
   "id": 1679803503,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-18",
+    "date:cessation_upper": "2017-08-18",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-18T15:16:44",
     "edtf:inception": "2017-08-18~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20170818-A-UAL-1424",
     "sfomuseum:flight_number": [
-      "UA1424", 
+      "UA1424",
       "UAL1424"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      85633793, 
-      102527513, 
-      1679803503
+      85688637,
+      102087579,
+      102191575,
+      1159157271,
+      85922583,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583178246,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679803503,
-    "wof:lastmodified": 1583178246,
+    "wof:lastmodified": 1717022892,
     "wof:name": "UAL1424 (KSAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

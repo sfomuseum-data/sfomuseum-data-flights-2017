@@ -2,6 +2,10 @@
   "id": 1662525249,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-11",
+    "date:inception_upper": "2017-03-11",
     "edtf:cessation": "2017-03-11~",
     "edtf:inception": "2017-03-11T13:50:00",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170311-D-SWA-5695",
     "sfomuseum:flight_number": [
-      "WN5695", 
+      "WN5695",
       "SWA5695"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      1662525249, 
-      85688637, 
-      102087579, 
+      85633793,
+      102191575,
+      1159157271,
+      102527513,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662525249,
-    "wof:lastmodified": 1583175316,
+    "wof:lastmodified": 1717022847,
     "wof:name": "SWA5695 (SFO-KBUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

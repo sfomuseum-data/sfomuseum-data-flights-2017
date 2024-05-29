@@ -2,6 +2,10 @@
   "id": 1662878347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-22",
+    "date:cessation_upper": "2017-11-22",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-22T01:10:38",
     "edtf:inception": "2017-11-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20171122-A-SWA-2894",
     "sfomuseum:flight_number": [
-      "WN2894", 
+      "WN2894",
       "SWA2894"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1662878347, 
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662878347,
-    "wof:lastmodified": 1583180088,
+    "wof:lastmodified": 1717022909,
     "wof:name": "SWA2894 (KSTL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

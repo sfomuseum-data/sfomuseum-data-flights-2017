@@ -2,6 +2,10 @@
   "id": 1662526543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-10",
+    "date:cessation_upper": "2017-10-10",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-10T11:00:42",
     "edtf:inception": "2017-10-10~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526247,
     "sfomuseum:flight_id": "20171010-A-FFT-1749",
     "sfomuseum:flight_number": [
-      "F91749", 
+      "F91749",
       "FFT1749"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1662526543, 
+      85922583,
+      1159157271,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662526543,
-    "wof:lastmodified": 1583179280,
+    "wof:lastmodified": 1717022847,
     "wof:name": "FFT1749 (KCOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.689858, 
+    -122.370943,
+    37.61799,
+    -104.689858,
     38.773626
   ],
   "geometry": {"coordinates":[[-104.689858,38.773626],[-122.370943,37.61799]],"type":"MultiPoint"}

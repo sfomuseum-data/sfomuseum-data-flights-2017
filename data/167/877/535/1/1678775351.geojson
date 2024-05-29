@@ -2,6 +2,10 @@
   "id": 1678775351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-24",
+    "date:inception_upper": "2017-01-24",
     "edtf:cessation": "2017-01-24~",
     "edtf:inception": "2017-01-24T07:32:50",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170124-D-VRD-950",
     "sfomuseum:flight_number": [
-      "VX950", 
+      "VX950",
       "VRD950"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      1678775351, 
-      85922583, 
-      102087579, 
-      102191575, 
-      85633793, 
+      1159157271,
+      102527513,
+      85922583,
+      102087579,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678775351,
-    "wof:lastmodified": 1583174609,
+    "wof:lastmodified": 1717022849,
     "wof:name": "VRD950 (SFO-KSAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

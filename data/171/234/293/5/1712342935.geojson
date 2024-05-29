@@ -2,6 +2,10 @@
   "id": 1712342935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-22",
+    "date:inception_upper": "2017-12-22",
     "edtf:cessation": "2017-12-22~",
     "edtf:inception": "2017-12-22T00:13:56",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171222-D-UAL-1947",
     "sfomuseum:flight_number": [
-      "UA1947", 
+      "UA1947",
       "UAL1947"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1712342935, 
-      85688637, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102527513, 
+      85688637,
+      102191575,
+      85922583,
+      85633793,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712342935,
-    "wof:lastmodified": 1583180683,
+    "wof:lastmodified": 1717022893,
     "wof:name": "UAL1947 (SFO-CUN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    21.040317, 
-    -86.872856, 
+    -122.370943,
+    21.040317,
+    -86.872856,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-86.872856,21.040317]],"type":"MultiPoint"}

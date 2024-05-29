@@ -2,6 +2,10 @@
   "id": 1662525829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-12",
+    "date:cessation_upper": "2017-08-12",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-12T17:41:40",
     "edtf:inception": "2017-08-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20170812-A-UAL-1240",
     "sfomuseum:flight_number": [
-      "UA1240", 
+      "UA1240",
       "UAL1240"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      1662525829, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159157271,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662525829,
-    "wof:lastmodified": 1583178122,
+    "wof:lastmodified": 1717022847,
     "wof:name": "UAL1240 (MMSD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662916807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-02",
+    "date:inception_upper": "2017-12-02",
     "edtf:cessation": "2017-12-02~",
     "edtf:inception": "2017-12-02T17:44:34",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171202-D-VRD-1051",
     "sfomuseum:flight_number": [
-      "VX1051", 
+      "VX1051",
       "VRD1051"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      1662916807, 
-      85688637, 
-      102191575, 
-      85922583, 
+      1159157271,
+      85633793,
+      102527513,
+      85688637,
+      102191575,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662916807,
-    "wof:lastmodified": 1583180312,
+    "wof:lastmodified": 1717022908,
     "wof:name": "VRD1051 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

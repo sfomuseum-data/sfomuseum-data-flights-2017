@@ -2,6 +2,10 @@
   "id": 1679339699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-21",
+    "date:cessation_upper": "2017-04-21",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-21T13:07:41",
     "edtf:inception": "2017-04-21~",
     "flysfo:airline": "CI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20170421-A-CAL-5397",
     "sfomuseum:flight_number": [
-      "CI5397", 
+      "CI5397",
       "CAL5397"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102191575, 
-      1679339699, 
-      85922583, 
-      102087579, 
-      102527513, 
+      85688637,
+      85633793,
+      102191575,
+      85922583,
+      102087579,
+      102527513,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679339699,
-    "wof:lastmodified": 1583175995,
+    "wof:lastmodified": 1717022869,
     "wof:name": "CAL5397 (KMIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

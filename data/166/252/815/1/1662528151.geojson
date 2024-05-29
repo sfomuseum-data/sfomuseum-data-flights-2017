@@ -2,6 +2,10 @@
   "id": 1662528151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-22",
+    "date:cessation_upper": "2017-11-22",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-22T22:14:10",
     "edtf:inception": "2017-11-22~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20171122-A-DAL-2101",
     "sfomuseum:flight_number": [
-      "DL2101", 
+      "DL2101",
       "DAL2101"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1662528151, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102087579, 
+      102191575,
+      1159157271,
+      102527513,
+      85688637,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662528151,
-    "wof:lastmodified": 1583180107,
+    "wof:lastmodified": 1717022848,
     "wof:name": "DAL2101 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

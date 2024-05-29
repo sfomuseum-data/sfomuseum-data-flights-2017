@@ -2,6 +2,10 @@
   "id": 1662951133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-11",
+    "date:inception_upper": "2017-12-11",
     "edtf:cessation": "2017-12-11~",
     "edtf:inception": "2017-12-11T20:57:42",
     "flysfo:airline": "CP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171211-D-CPZ-6007",
     "sfomuseum:flight_number": [
-      "CP6007", 
+      "CP6007",
       "CPZ6007"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      1662951133, 
-      1159157271, 
-      102527513, 
-      85688637, 
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662951133,
-    "wof:lastmodified": 1583180486,
+    "wof:lastmodified": 1717022912,
     "wof:name": "CPZ6007 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662923953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-04",
+    "date:inception_upper": "2017-12-04",
     "edtf:cessation": "2017-12-04~",
     "edtf:inception": "2017-12-04T16:58:11",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171204-D-DAL-1193",
     "sfomuseum:flight_number": [
-      "DL1193", 
+      "DL1193",
       "DAL1193"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1662923953, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662923953,
-    "wof:lastmodified": 1583180347,
+    "wof:lastmodified": 1717022907,
     "wof:name": "DAL1193 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

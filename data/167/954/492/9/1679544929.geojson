@@ -2,6 +2,10 @@
   "id": 1679544929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-16",
+    "date:inception_upper": "2017-06-16",
     "edtf:cessation": "2017-06-16~",
     "edtf:inception": "2017-06-16T22:46:55",
     "flysfo:airline": "WW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170616-D-WOW-162",
     "sfomuseum:flight_number": [
-      "WW162", 
+      "WW162",
       "WOW162"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1679544929
+      102527513,
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583176987,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679544929,
-    "wof:lastmodified": 1583176987,
+    "wof:lastmodified": 1717022878,
     "wof:name": "WOW162 (SFO-BIKF)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -22.585315, 
+    -122.370943,
+    37.61799,
+    -22.585315,
     63.983414
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-22.585315,63.983414]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679340831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-21",
+    "date:cessation_upper": "2017-04-21",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-21T19:07:06",
     "edtf:inception": "2017-04-21~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20170421-A-DAL-2776",
     "sfomuseum:flight_number": [
-      "DL2776", 
+      "DL2776",
       "DAL2776"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1679340831
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583176000,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679340831,
-    "wof:lastmodified": 1583176000,
+    "wof:lastmodified": 1717022867,
     "wof:name": "DAL2776 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

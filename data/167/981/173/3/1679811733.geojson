@@ -2,6 +2,10 @@
   "id": 1679811733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-20",
+    "date:cessation_upper": "2017-08-20",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-20T15:12:50",
     "edtf:inception": "2017-08-20~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534217,
     "sfomuseum:flight_id": "20170820-A-UAL-1259",
     "sfomuseum:flight_number": [
-      "UA1259", 
+      "UA1259",
       "UAL1259"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      1679811733
+      85688637,
+      102087579,
+      85922583,
+      102191575,
+      85633793,
+      1159157271,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583178285,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679811733,
-    "wof:lastmodified": 1583178285,
+    "wof:lastmodified": 1717022891,
     "wof:name": "UAL1259 (KJAC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -110.73854, 
+    -122.370943,
+    37.61799,
+    -110.73854,
     43.6066
   ],
   "geometry": {"coordinates":[[-110.73854,43.6066],[-122.370943,37.61799]],"type":"MultiPoint"}

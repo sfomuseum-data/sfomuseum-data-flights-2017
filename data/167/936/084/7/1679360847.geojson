@@ -2,6 +2,10 @@
   "id": 1679360847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-27",
+    "date:cessation_upper": "2017-04-27",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-27T16:13:26",
     "edtf:inception": "2017-04-27~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20170427-A-DAL-2158",
     "sfomuseum:flight_number": [
-      "DL2158", 
+      "DL2158",
       "DAL2158"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      1679360847
+      85922583,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      1159157271,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583176099,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679360847,
-    "wof:lastmodified": 1583176099,
+    "wof:lastmodified": 1717022867,
     "wof:name": "DAL2158 (KSLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

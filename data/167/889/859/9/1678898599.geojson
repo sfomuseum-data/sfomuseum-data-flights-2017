@@ -2,6 +2,10 @@
   "id": 1678898599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-17",
+    "date:cessation_upper": "2017-02-17",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-17T21:36:46",
     "edtf:inception": "2017-02-17~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20170217-A-VRD-941",
     "sfomuseum:flight_number": [
-      "VX941", 
+      "VX941",
       "VRD941"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1678898599, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678898599,
-    "wof:lastmodified": 1583174969,
+    "wof:lastmodified": 1717022855,
     "wof:name": "VRD941 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

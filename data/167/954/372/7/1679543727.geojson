@@ -2,6 +2,10 @@
   "id": 1679543727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-16",
+    "date:cessation_upper": "2017-06-16",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-16T17:06:18",
     "edtf:inception": "2017-06-16~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20170616-A-ASA-247",
     "sfomuseum:flight_number": [
-      "AS247", 
+      "AS247",
       "ASA247"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679543727, 
-      1159157271, 
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679543727,
-    "wof:lastmodified": 1583176981,
+    "wof:lastmodified": 1717022877,
     "wof:name": "ASA247 (MMSD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

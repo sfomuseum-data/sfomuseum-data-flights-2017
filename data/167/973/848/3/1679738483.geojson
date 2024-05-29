@@ -2,6 +2,10 @@
   "id": 1679738483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-03",
+    "date:inception_upper": "2017-08-03",
     "edtf:cessation": "2017-08-03~",
     "edtf:inception": "2017-08-03T10:32:37",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170803-D-ASA-264",
     "sfomuseum:flight_number": [
-      "AS264", 
+      "AS264",
       "ASA264"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1679738483, 
-      1159157271, 
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679738483,
-    "wof:lastmodified": 1583177930,
+    "wof:lastmodified": 1717022890,
     "wof:name": "ASA264 (SFO-MMSD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

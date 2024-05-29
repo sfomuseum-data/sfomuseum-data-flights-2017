@@ -2,6 +2,10 @@
   "id": 1662972193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-17",
+    "date:cessation_upper": "2017-12-17",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-17T13:02:41",
     "edtf:inception": "2017-12-17~",
     "flysfo:airline": "CA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550367,
     "sfomuseum:flight_id": "20171217-A-CCA-985",
     "sfomuseum:flight_number": [
-      "CA985", 
+      "CA985",
       "CCA985"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1662972193, 
-      85688637, 
-      102527513, 
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662972193,
-    "wof:lastmodified": 1583180592,
+    "wof:lastmodified": 1717022911,
     "wof:name": "CCA985 (PEK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    116.586155, 
+    -122.370943,
+    37.61799,
+    116.586155,
     40.068469
   ],
   "geometry": {"coordinates":[[116.586155,40.068469],[-122.370943,37.61799]],"type":"MultiPoint"}

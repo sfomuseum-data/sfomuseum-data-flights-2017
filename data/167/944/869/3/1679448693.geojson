@@ -2,6 +2,10 @@
   "id": 1679448693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-21",
+    "date:cessation_upper": "2017-05-21",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-21T20:36:55",
     "edtf:inception": "2017-05-21~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20170521-A-UAL-340",
     "sfomuseum:flight_number": [
-      "UA340", 
+      "UA340",
       "UAL340"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1679448693
+      102191575,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583176519,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679448693,
-    "wof:lastmodified": 1583176519,
+    "wof:lastmodified": 1717022875,
     "wof:name": "UAL340 (KIAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

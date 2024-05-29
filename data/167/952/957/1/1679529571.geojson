@@ -2,6 +2,10 @@
   "id": 1679529571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-13",
+    "date:inception_upper": "2017-06-13",
     "edtf:cessation": "2017-06-13~",
     "edtf:inception": "2017-06-13T09:55:25",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170613-D-UAL-431",
     "sfomuseum:flight_number": [
-      "UA431", 
+      "UA431",
       "UAL431"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679529571, 
-      85633793, 
-      102191575, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85688637, 
+      85633793,
+      102191575,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679529571,
-    "wof:lastmodified": 1583176913,
+    "wof:lastmodified": 1717022880,
     "wof:name": "UAL431 (SFO-KDEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

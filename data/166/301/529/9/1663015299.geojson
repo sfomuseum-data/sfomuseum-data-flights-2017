@@ -2,6 +2,10 @@
   "id": 1663015299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-13",
+    "date:cessation_upper": "2017-01-13",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-13T21:05:22",
     "edtf:inception": "2017-01-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20170113-A-UAL-1682",
     "sfomuseum:flight_number": [
-      "UA1682", 
+      "UA1682",
       "UAL1682"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      1663015299, 
-      85922583, 
-      102527513, 
-      102191575, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663015299,
-    "wof:lastmodified": 1583174465,
+    "wof:lastmodified": 1717022915,
     "wof:name": "UAL1682 (KFLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

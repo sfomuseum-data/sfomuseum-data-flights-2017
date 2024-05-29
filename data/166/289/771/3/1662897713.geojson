@@ -2,6 +2,10 @@
   "id": 1662897713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-27",
+    "date:inception_upper": "2017-11-27",
     "edtf:cessation": "2017-11-27~",
     "edtf:inception": "2017-11-27T10:52:18",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171127-D-UAL-1071",
     "sfomuseum:flight_number": [
-      "UA1071", 
+      "UA1071",
       "UAL1071"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      1662897713
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583180216,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662897713,
-    "wof:lastmodified": 1583180216,
+    "wof:lastmodified": 1717022909,
     "wof:name": "UAL1071 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

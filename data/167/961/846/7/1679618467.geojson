@@ -2,6 +2,10 @@
   "id": 1679618467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-01",
+    "date:cessation_upper": "2017-07-31",
+    "date:inception_lower": "2017-07-05",
+    "date:inception_upper": "2017-07-05",
     "edtf:cessation": "2017-07-05~",
     "edtf:inception": "2017-07-05T10:04:43",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170705-D-AAL-1084",
     "sfomuseum:flight_number": [
-      "AA1084", 
+      "AA1084",
       "AAL1084"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102527513, 
-      102087579, 
-      1679618467
+      1159157271,
+      85633793,
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177348,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679618467,
-    "wof:lastmodified": 1583177348,
+    "wof:lastmodified": 1717022884,
     "wof:name": "AAL1084 (SFO-KDFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

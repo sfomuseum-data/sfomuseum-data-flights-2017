@@ -2,6 +2,10 @@
   "id": 1678782297,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-26",
+    "date:cessation_upper": "2017-01-26",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-26T10:52:47",
     "edtf:inception": "2017-01-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20170126-A-SWA-668",
     "sfomuseum:flight_number": [
-      "WN668", 
+      "WN668",
       "SWA668"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1678782297, 
-      1159157271, 
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678782297,
-    "wof:lastmodified": 1583174641,
+    "wof:lastmodified": 1717022848,
     "wof:name": "SWA668 (KDAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

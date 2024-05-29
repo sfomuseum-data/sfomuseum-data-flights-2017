@@ -2,6 +2,10 @@
   "id": 1662621353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-04",
+    "date:inception_upper": "2017-06-04",
     "edtf:cessation": "2017-06-04~",
     "edtf:inception": "2017-06-04T17:51:46",
     "flysfo:airline": "KL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170604-D-KLM-284",
     "sfomuseum:flight_number": [
-      "KL284", 
+      "KL284",
       "KLM284"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      102087579, 
-      1662621353, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102527513,
+      1159157271,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662621353,
-    "wof:lastmodified": 1583176748,
+    "wof:lastmodified": 1717022897,
     "wof:name": "KLM284 (SFO-EHAM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    4.782907, 
+    -122.370943,
+    37.61799,
+    4.782907,
     52.314791
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[4.782907,52.314791]],"type":"MultiPoint"}

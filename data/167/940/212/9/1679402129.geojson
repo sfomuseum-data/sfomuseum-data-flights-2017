@@ -2,6 +2,10 @@
   "id": 1679402129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-09",
+    "date:inception_upper": "2017-05-09",
     "edtf:cessation": "2017-05-09~",
     "edtf:inception": "2017-05-09T05:57:57",
     "flysfo:airline": "5Y",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170509-D-GTI-8242",
     "sfomuseum:flight_number": [
-      "5Y8242", 
+      "5Y8242",
       "GTI8242"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1679402129, 
-      85688637, 
+      1159157271,
+      102087579,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679402129,
-    "wof:lastmodified": 1583176297,
+    "wof:lastmodified": 1717022869,
     "wof:name": "GTI8242 (SFO-KDOV)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.407831, 
+    -122.370943,
+    37.61799,
+    -75.407831,
     39.084652
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.407831,39.084652]],"type":"MultiPoint"}

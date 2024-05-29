@@ -2,6 +2,10 @@
   "id": 1662949235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-11",
+    "date:inception_upper": "2017-12-11",
     "edtf:cessation": "2017-12-11~",
     "edtf:inception": "2017-12-11T11:33:53",
     "flysfo:airline": "NH",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171211-D-ANA-7",
     "sfomuseum:flight_number": [
-      "NH7", 
+      "NH7",
       "ANA7"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      1662949235, 
+      102527513,
+      85922583,
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662949235,
-    "wof:lastmodified": 1583180475,
+    "wof:lastmodified": 1717022913,
     "wof:name": "ANA7 (SFO-NRT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}

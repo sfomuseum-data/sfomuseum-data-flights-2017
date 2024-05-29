@@ -2,6 +2,10 @@
   "id": 1679367333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-29",
+    "date:cessation_upper": "2017-04-29",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-29T12:07:44",
     "edtf:inception": "2017-04-29~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20170429-A-ASA-382",
     "sfomuseum:flight_number": [
-      "AS382", 
+      "AS382",
       "ASA382"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85633793, 
-      1679367333
+      85922583,
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583176132,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679367333,
-    "wof:lastmodified": 1583176132,
+    "wof:lastmodified": 1717022870,
     "wof:name": "ASA382 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

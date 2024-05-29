@@ -2,6 +2,10 @@
   "id": 1662886375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-24",
+    "date:cessation_upper": "2017-11-24",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-24T13:08:37",
     "edtf:inception": "2017-11-24~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20171124-A-SWA-3501",
     "sfomuseum:flight_number": [
-      "WN3501", 
+      "WN3501",
       "SWA3501"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1662886375, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      102527513, 
+      85922583,
+      102087579,
+      1159157271,
+      85688637,
+      102191575,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662886375,
-    "wof:lastmodified": 1583180129,
+    "wof:lastmodified": 1717022908,
     "wof:name": "SWA3501 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

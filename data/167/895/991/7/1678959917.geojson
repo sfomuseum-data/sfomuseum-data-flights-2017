@@ -2,6 +2,10 @@
   "id": 1678959917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-01",
     "edtf:cessation": "2017-03-01~",
     "edtf:inception": "2017-03-01T11:41:00",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170301-D-UAL-2196",
     "sfomuseum:flight_number": [
-      "UA2196", 
+      "UA2196",
       "UAL2196"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1678959917
+      85922583,
+      102191575,
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583175148,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678959917,
-    "wof:lastmodified": 1583175148,
+    "wof:lastmodified": 1717022861,
     "wof:name": "UAL2196 (SFO-KDEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

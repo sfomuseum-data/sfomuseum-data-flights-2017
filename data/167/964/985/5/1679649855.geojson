@@ -2,6 +2,10 @@
   "id": 1679649855,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-12",
+    "date:cessation_upper": "2017-07-12",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-12T20:47:30",
     "edtf:inception": "2017-07-12~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20170712-A-UAL-1853",
     "sfomuseum:flight_number": [
-      "UA1853", 
+      "UA1853",
       "UAL1853"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1679649855
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177499,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679649855,
-    "wof:lastmodified": 1583177499,
+    "wof:lastmodified": 1717022886,
     "wof:name": "UAL1853 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

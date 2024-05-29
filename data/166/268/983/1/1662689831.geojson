@@ -2,6 +2,10 @@
   "id": 1662689831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-02",
+    "date:cessation_upper": "2017-10-02",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-02T11:36:00",
     "edtf:inception": "2017-10-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525035,
     "sfomuseum:flight_id": "20171002-A-UAL-28",
     "sfomuseum:flight_number": [
-      "UA28", 
+      "UA28",
       "UAL28"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102527513, 
-      1662689831, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      102527513,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662689831,
-    "wof:lastmodified": 1583179117,
+    "wof:lastmodified": 1717022859,
     "wof:name": "UAL28 (KBNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.126387, 
-    -86.676652, 
+    -122.370943,
+    36.126387,
+    -86.676652,
     37.61799
   ],
   "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}

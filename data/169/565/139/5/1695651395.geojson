@@ -2,6 +2,10 @@
   "id": 1695651395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-16",
+    "date:inception_upper": "2017-09-16",
     "edtf:cessation": "2017-09-16~",
     "edtf:inception": "2017-09-16T17:01:03",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170916-D-SWA-5849",
     "sfomuseum:flight_number": [
-      "WN5849", 
+      "WN5849",
       "SWA5849"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      1695651395, 
-      102191575, 
-      85633793, 
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695651395,
-    "wof:lastmodified": 1583178816,
+    "wof:lastmodified": 1717022855,
     "wof:name": "SWA5849 (SFO-KBUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

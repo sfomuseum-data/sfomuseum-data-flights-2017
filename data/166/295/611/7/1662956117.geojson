@@ -2,6 +2,10 @@
   "id": 1662956117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-13",
+    "date:cessation_upper": "2017-12-13",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-13T08:53:53",
     "edtf:inception": "2017-12-13~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171213-A-UAL-277",
     "sfomuseum:flight_number": [
-      "UA277", 
+      "UA277",
       "UAL277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1662956117
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583180510,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662956117,
-    "wof:lastmodified": 1583180510,
+    "wof:lastmodified": 1717022913,
     "wof:name": "UAL277 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

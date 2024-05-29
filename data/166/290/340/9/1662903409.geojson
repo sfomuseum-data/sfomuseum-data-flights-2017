@@ -2,6 +2,10 @@
   "id": 1662903409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-28",
+    "date:inception_upper": "2017-11-28",
     "edtf:cessation": "2017-11-28~",
     "edtf:inception": "2017-11-28T15:52:50",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171128-D-SWA-1909",
     "sfomuseum:flight_number": [
-      "WN1909", 
+      "WN1909",
       "SWA1909"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1662903409
+      85633793,
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583180244,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662903409,
-    "wof:lastmodified": 1583180244,
+    "wof:lastmodified": 1717022907,
     "wof:name": "SWA1909 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679815101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-21",
+    "date:cessation_upper": "2017-08-21",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-21T11:01:07",
     "edtf:inception": "2017-08-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170821-A-UAL-2421",
     "sfomuseum:flight_number": [
-      "UA2421", 
+      "UA2421",
       "UAL2421"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      1679815101, 
-      102087579, 
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679815101,
-    "wof:lastmodified": 1583178301,
+    "wof:lastmodified": 1717022893,
     "wof:name": "UAL2421 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

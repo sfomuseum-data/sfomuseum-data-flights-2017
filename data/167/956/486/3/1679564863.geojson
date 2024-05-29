@@ -2,6 +2,10 @@
   "id": 1679564863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-21",
+    "date:cessation_upper": "2017-06-21",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-21T21:59:39",
     "edtf:inception": "2017-06-21~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20170621-A-DAL-1749",
     "sfomuseum:flight_number": [
-      "DL1749", 
+      "DL1749",
       "DAL1749"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1679564863
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583177085,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679564863,
-    "wof:lastmodified": 1583177085,
+    "wof:lastmodified": 1717022879,
     "wof:name": "DAL1749 (KMSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

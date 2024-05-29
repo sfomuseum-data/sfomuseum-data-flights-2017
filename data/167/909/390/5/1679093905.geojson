@@ -2,6 +2,10 @@
   "id": 1679093905,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-21",
+    "date:cessation_upper": "2017-03-21",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-21T08:35:48",
     "edtf:inception": "2017-03-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20170321-A-UAL-1281",
     "sfomuseum:flight_number": [
-      "UA1281", 
+      "UA1281",
       "UAL1281"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102191575, 
-      1679093905, 
-      102527513, 
-      85922583, 
-      85633793, 
+      1159157271,
+      102087579,
+      102191575,
+      102527513,
+      85922583,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679093905,
-    "wof:lastmodified": 1583175468,
+    "wof:lastmodified": 1717022862,
     "wof:name": "UAL1281 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

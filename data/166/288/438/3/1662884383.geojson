@@ -2,6 +2,10 @@
   "id": 1662884383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-23",
+    "date:cessation_upper": "2017-11-23",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-23T16:55:03",
     "edtf:inception": "2017-11-23~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20171123-A-SWA-3138",
     "sfomuseum:flight_number": [
-      "WN3138", 
+      "WN3138",
       "SWA3138"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      1662884383, 
-      85688637, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662884383,
-    "wof:lastmodified": 1583180120,
+    "wof:lastmodified": 1717022907,
     "wof:name": "SWA3138 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

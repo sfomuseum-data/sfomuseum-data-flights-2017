@@ -2,6 +2,10 @@
   "id": 1679188143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-01",
+    "date:cessation_upper": "2017-04-30",
+    "date:inception_lower": "2017-04-03",
+    "date:inception_upper": "2017-04-03",
     "edtf:cessation": "2017-04-03~",
     "edtf:inception": "2017-04-03T09:25:42",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170403-D-SWA-1127",
     "sfomuseum:flight_number": [
-      "WN1127", 
+      "WN1127",
       "SWA1127"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1679188143
+      1159157271,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175686,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679188143,
-    "wof:lastmodified": 1583175686,
+    "wof:lastmodified": 1717022865,
     "wof:name": "SWA1127 (SFO-KBUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

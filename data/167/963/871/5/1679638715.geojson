@@ -2,6 +2,10 @@
   "id": 1679638715,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-01",
+    "date:cessation_upper": "2017-07-31",
+    "date:inception_lower": "2017-07-10",
+    "date:inception_upper": "2017-07-10",
     "edtf:cessation": "2017-07-10~",
     "edtf:inception": "2017-07-10T09:16:24",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170710-D-UAL-1111",
     "sfomuseum:flight_number": [
-      "UA1111", 
+      "UA1111",
       "UAL1111"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679638715, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      85922583, 
-      102191575, 
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679638715,
-    "wof:lastmodified": 1583177446,
+    "wof:lastmodified": 1717022885,
     "wof:name": "UAL1111 (SFO-PHLI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}

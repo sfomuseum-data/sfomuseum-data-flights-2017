@@ -2,6 +2,10 @@
   "id": 1695678083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-23",
+    "date:cessation_upper": "2017-09-23",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-23T21:11:34",
     "edtf:inception": "2017-09-23~",
     "flysfo:airline": "AM",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536579,
     "sfomuseum:flight_id": "20170923-A-AMX-664",
     "sfomuseum:flight_number": [
-      "AM664", 
+      "AM664",
       "AMX664"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1695678083
+      85688637,
+      102527513,
+      1159157271,
+      85633793,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583178947,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695678083,
-    "wof:lastmodified": 1583178947,
+    "wof:lastmodified": 1717022858,
     "wof:name": "AMX664 (MMMX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}

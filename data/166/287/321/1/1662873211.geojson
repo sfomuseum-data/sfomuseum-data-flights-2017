@@ -2,6 +2,10 @@
   "id": 1662873211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-19",
+    "date:cessation_upper": "2017-11-19",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-19T17:24:36",
     "edtf:inception": "2017-11-19~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20171119-A-AAL-622",
     "sfomuseum:flight_number": [
-      "AA622", 
+      "AA622",
       "AAL622"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      1662873211, 
-      85688637, 
-      102527513, 
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662873211,
-    "wof:lastmodified": 1583180062,
+    "wof:lastmodified": 1717022907,
     "wof:name": "AAL622 (KCLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

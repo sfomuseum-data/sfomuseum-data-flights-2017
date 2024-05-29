@@ -2,6 +2,10 @@
   "id": 1662573131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-11",
+    "date:cessation_upper": "2017-01-11",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-11T23:43:50",
     "edtf:inception": "2017-01-11~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20170111-A-FFT-1737",
     "sfomuseum:flight_number": [
-      "F91737", 
+      "F91737",
       "FFT1737"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1662573131, 
-      1159157271, 
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      102087579,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662573131,
-    "wof:lastmodified": 1583174441,
+    "wof:lastmodified": 1717022895,
     "wof:name": "FFT1737 (KDFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

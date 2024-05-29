@@ -2,6 +2,10 @@
   "id": 1678992241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-06",
+    "date:cessation_upper": "2017-03-06",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-06T07:15:33",
     "edtf:inception": "2017-03-06~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525535,
     "sfomuseum:flight_id": "20170306-A-UAL-1174",
     "sfomuseum:flight_number": [
-      "UA1174", 
+      "UA1174",
       "UAL1174"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1678992241, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678992241,
-    "wof:lastmodified": 1583175227,
+    "wof:lastmodified": 1717022860,
     "wof:name": "UAL1174 (KRNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}

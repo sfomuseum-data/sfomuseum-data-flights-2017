@@ -2,6 +2,10 @@
   "id": 1662993095,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-06",
+    "date:cessation_upper": "2017-01-06",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-06T11:34:49",
     "edtf:inception": "2017-01-06~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20170106-A-VRD-183",
     "sfomuseum:flight_number": [
-      "VX183", 
+      "VX183",
       "VRD183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1662993095, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
+      1159157271,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662993095,
-    "wof:lastmodified": 1583174361,
+    "wof:lastmodified": 1717022913,
     "wof:name": "VRD183 (KEWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

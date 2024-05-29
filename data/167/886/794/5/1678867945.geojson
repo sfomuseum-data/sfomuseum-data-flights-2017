@@ -2,6 +2,10 @@
   "id": 1678867945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-12",
+    "date:inception_upper": "2017-02-12",
     "edtf:cessation": "2017-02-12~",
     "edtf:inception": "2017-02-12T17:06:27",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170212-D-SWA-2002",
     "sfomuseum:flight_number": [
-      "WN2002", 
+      "WN2002",
       "SWA2002"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1678867945, 
+      85688637,
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678867945,
-    "wof:lastmodified": 1583174890,
+    "wof:lastmodified": 1717022853,
     "wof:name": "SWA2002 (SFO-KBUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

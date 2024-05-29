@@ -2,6 +2,10 @@
   "id": 1679422259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-14",
+    "date:cessation_upper": "2017-05-14",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-14T15:39:34",
     "edtf:inception": "2017-05-14~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20170514-A-SWA-4751",
     "sfomuseum:flight_number": [
-      "WN4751", 
+      "WN4751",
       "SWA4751"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102191575, 
-      1679422259
+      102087579,
+      102527513,
+      85688637,
+      85922583,
+      1159157271,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583176393,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679422259,
-    "wof:lastmodified": 1583176393,
+    "wof:lastmodified": 1717022870,
     "wof:name": "SWA4751 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

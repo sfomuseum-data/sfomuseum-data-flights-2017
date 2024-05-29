@@ -2,6 +2,10 @@
   "id": 1679001835,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-07",
+    "date:inception_upper": "2017-03-07",
     "edtf:cessation": "2017-03-07~",
     "edtf:inception": "2017-03-07T11:52:54",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170307-D-AAL-591",
     "sfomuseum:flight_number": [
-      "AA591", 
+      "AA591",
       "AAL591"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1679001835, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      85633793, 
+      102087579,
+      102527513,
+      1159157271,
+      102191575,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679001835,
-    "wof:lastmodified": 1583175248,
+    "wof:lastmodified": 1717022860,
     "wof:name": "AAL591 (SFO-KDFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

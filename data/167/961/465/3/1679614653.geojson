@@ -2,6 +2,10 @@
   "id": 1679614653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-04",
+    "date:cessation_upper": "2017-07-04",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-04T09:41:02",
     "edtf:inception": "2017-07-04~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20170704-A-VRD-067",
     "sfomuseum:flight_number": [
-      "VX067", 
+      "VX067",
       "VRD067"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1679614653, 
-      102191575, 
-      85922583, 
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      102191575,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679614653,
-    "wof:lastmodified": 1583177328,
+    "wof:lastmodified": 1717022882,
     "wof:name": "VRD067 (KIAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

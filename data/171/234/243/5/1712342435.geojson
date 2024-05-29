@@ -2,6 +2,10 @@
   "id": 1712342435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-21",
+    "date:cessation_upper": "2017-12-21",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-21T20:10:32",
     "edtf:inception": "2017-12-21~",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555091,
     "sfomuseum:flight_id": "20171221-A-ACA-753",
     "sfomuseum:flight_number": [
-      "AC753", 
+      "AC753",
       "ACA753"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1712342435
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      102527513,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583180679,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712342435,
-    "wof:lastmodified": 1583180679,
+    "wof:lastmodified": 1717022893,
     "wof:name": "ACA753 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679608853,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-02",
+    "date:cessation_upper": "2017-07-02",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-02T17:06:51",
     "edtf:inception": "2017-07-02~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20170702-A-SWA-4973",
     "sfomuseum:flight_number": [
-      "WN4973", 
+      "WN4973",
       "SWA4973"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      1679608853, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679608853,
-    "wof:lastmodified": 1583177300,
+    "wof:lastmodified": 1717022882,
     "wof:name": "SWA4973 (KSTL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

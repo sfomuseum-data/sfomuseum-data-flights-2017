@@ -2,6 +2,10 @@
   "id": 1662988201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-04",
+    "date:cessation_upper": "2017-01-04",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-04T22:39:54",
     "edtf:inception": "2017-01-04~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20170104-A-AAL-1709",
     "sfomuseum:flight_number": [
-      "AA1709", 
+      "AA1709",
       "AAL1709"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1662988201, 
-      102527513, 
-      1159157271, 
-      85922583, 
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662988201,
-    "wof:lastmodified": 1583174339,
+    "wof:lastmodified": 1717022913,
     "wof:name": "AAL1709 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

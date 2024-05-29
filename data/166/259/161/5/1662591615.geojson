@@ -2,6 +2,10 @@
   "id": 1662591615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-11",
+    "date:inception_upper": "2017-03-11",
     "edtf:cessation": "2017-03-11~",
     "edtf:inception": "2017-03-11T13:21:42",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170311-D-DAL-970",
     "sfomuseum:flight_number": [
-      "DL970", 
+      "DL970",
       "DAL970"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1662591615, 
+      1159157271,
+      85633793,
+      102527513,
+      85688637,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662591615,
-    "wof:lastmodified": 1583175316,
+    "wof:lastmodified": 1717022895,
     "wof:name": "DAL970 (SFO-KSLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

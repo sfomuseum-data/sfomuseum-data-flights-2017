@@ -2,6 +2,10 @@
   "id": 1679589553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-27",
+    "date:cessation_upper": "2017-06-27",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-27T22:42:25",
     "edtf:inception": "2017-06-27~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170627-A-SWA-3990",
     "sfomuseum:flight_number": [
-      "WN3990", 
+      "WN3990",
       "SWA3990"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1679589553
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
+      85922583,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583177205,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679589553,
-    "wof:lastmodified": 1583177205,
+    "wof:lastmodified": 1717022882,
     "wof:name": "SWA3990 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

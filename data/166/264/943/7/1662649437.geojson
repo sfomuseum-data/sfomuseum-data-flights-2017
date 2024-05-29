@@ -2,6 +2,10 @@
   "id": 1662649437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-12",
+    "date:cessation_upper": "2017-08-12",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-12T06:28:56",
     "edtf:inception": "2017-08-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550969,
     "sfomuseum:flight_id": "20170812-A-UAL-852",
     "sfomuseum:flight_number": [
-      "UA852", 
+      "UA852",
       "UAL852"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1662649437, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102087579, 
+      85688637,
+      102191575,
+      1159157271,
+      85633793,
+      102527513,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662649437,
-    "wof:lastmodified": 1583178111,
+    "wof:lastmodified": 1717022902,
     "wof:name": "UAL852 (ZLXY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.443257, 
-    108.755897, 
+    -122.370943,
+    34.443257,
+    108.755897,
     37.61799
   ],
   "geometry": {"coordinates":[[108.755897,34.443257],[-122.370943,37.61799]],"type":"MultiPoint"}

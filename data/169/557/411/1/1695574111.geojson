@@ -2,6 +2,10 @@
   "id": 1695574111,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-28",
+    "date:inception_upper": "2017-08-28",
     "edtf:cessation": "2017-08-28~",
     "edtf:inception": "2017-08-28T09:21:48",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170828-D-UAL-1175",
     "sfomuseum:flight_number": [
-      "UA1175", 
+      "UA1175",
       "UAL1175"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102191575, 
-      85922583, 
-      102087579, 
-      1695574111, 
-      85688637, 
+      1159157271,
+      85633793,
+      102191575,
+      85922583,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695574111,
-    "wof:lastmodified": 1583178446,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL1175 (SFO-PHNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

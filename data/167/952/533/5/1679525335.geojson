@@ -2,6 +2,10 @@
   "id": 1679525335,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-12",
+    "date:cessation_upper": "2017-06-12",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-12T09:49:45",
     "edtf:inception": "2017-06-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532701,
     "sfomuseum:flight_id": "20170612-A-UAL-2409",
     "sfomuseum:flight_number": [
-      "UA2409", 
+      "UA2409",
       "UAL2409"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1679525335, 
-      85688637, 
-      85633793, 
-      85922583, 
-      1159157271, 
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679525335,
-    "wof:lastmodified": 1583176892,
+    "wof:lastmodified": 1717022878,
     "wof:name": "UAL2409 (KBDL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -72.687108, 
+    -122.370943,
+    37.61799,
+    -72.687108,
     41.934353
   ],
   "geometry": {"coordinates":[[-72.687108,41.934353],[-122.370943,37.61799]],"type":"MultiPoint"}

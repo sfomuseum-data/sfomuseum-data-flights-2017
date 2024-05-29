@@ -2,6 +2,10 @@
   "id": 1662911565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-01",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-01T10:17:48",
     "edtf:inception": "2017-12-01~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20171201-A-SWA-4512",
     "sfomuseum:flight_number": [
-      "WN4512", 
+      "WN4512",
       "SWA4512"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1662911565, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662911565,
-    "wof:lastmodified": 1583180285,
+    "wof:lastmodified": 1717022905,
     "wof:name": "SWA4512 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

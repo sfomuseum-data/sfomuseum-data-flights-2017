@@ -2,6 +2,10 @@
   "id": 1662996701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-07",
+    "date:cessation_upper": "2017-01-07",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-07T13:54:00",
     "edtf:inception": "2017-01-07~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20170107-A-SWA-1183",
     "sfomuseum:flight_number": [
-      "WN1183", 
+      "WN1183",
       "SWA1183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      102527513, 
-      1662996701, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102087579,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662996701,
-    "wof:lastmodified": 1583174377,
+    "wof:lastmodified": 1717022913,
     "wof:name": "SWA1183 (KMDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

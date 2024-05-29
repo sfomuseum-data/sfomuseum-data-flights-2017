@@ -2,6 +2,10 @@
   "id": 1695678101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-23",
+    "date:cessation_upper": "2017-09-23",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-23T21:19:45",
     "edtf:inception": "2017-09-23~",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555091,
     "sfomuseum:flight_id": "20170923-A-ACA-739",
     "sfomuseum:flight_number": [
-      "AC739", 
+      "AC739",
       "ACA739"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1695678101
+      1159157271,
+      85922583,
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583178947,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695678101,
-    "wof:lastmodified": 1583178947,
+    "wof:lastmodified": 1717022858,
     "wof:name": "ACA739 (CYYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}

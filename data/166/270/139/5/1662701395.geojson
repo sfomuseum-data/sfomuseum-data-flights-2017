@@ -2,6 +2,10 @@
   "id": 1662701395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-01",
+    "date:cessation_upper": "2017-10-31",
+    "date:inception_lower": "2017-10-05",
+    "date:inception_upper": "2017-10-05",
     "edtf:cessation": "2017-10-05~",
     "edtf:inception": "2017-10-05T09:31:56",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171005-D-UAL-1210",
     "sfomuseum:flight_number": [
-      "UA1210", 
+      "UA1210",
       "UAL1210"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1662701395
+      85688637,
+      1159157271,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583179178,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662701395,
-    "wof:lastmodified": 1583179178,
+    "wof:lastmodified": 1717022863,
     "wof:name": "UAL1210 (SFO-KBWI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}

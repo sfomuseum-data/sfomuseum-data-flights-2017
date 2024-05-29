@@ -2,6 +2,10 @@
   "id": 1662574569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-16",
+    "date:inception_upper": "2017-01-16",
     "edtf:cessation": "2017-01-16~",
     "edtf:inception": "2017-01-16T23:18:45",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170116-D-DAL-2021",
     "sfomuseum:flight_number": [
-      "DL2021", 
+      "DL2021",
       "DAL2021"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1662574569, 
-      102191575, 
+      85922583,
+      1159157271,
+      102527513,
+      85688637,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662574569,
-    "wof:lastmodified": 1583174506,
+    "wof:lastmodified": 1717022895,
     "wof:name": "DAL2021 (SFO-KDTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

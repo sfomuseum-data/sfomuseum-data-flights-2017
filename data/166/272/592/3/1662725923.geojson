@@ -2,6 +2,10 @@
   "id": 1662725923,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-11",
+    "date:cessation_upper": "2017-10-11",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-11T15:05:32",
     "edtf:inception": "2017-10-11~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20171011-A-UAL-348",
     "sfomuseum:flight_number": [
-      "UA348", 
+      "UA348",
       "UAL348"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1662725923, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662725923,
-    "wof:lastmodified": 1583179304,
+    "wof:lastmodified": 1717022874,
     "wof:name": "UAL348 (KIAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

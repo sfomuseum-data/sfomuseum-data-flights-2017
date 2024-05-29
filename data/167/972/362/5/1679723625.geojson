@@ -2,6 +2,10 @@
   "id": 1679723625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-30",
+    "date:cessation_upper": "2017-07-30",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-30T18:17:08",
     "edtf:inception": "2017-07-30~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20170730-A-VRD-305",
     "sfomuseum:flight_number": [
-      "VX305", 
+      "VX305",
       "VRD305"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1679723625
+      85922583,
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583177856,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679723625,
-    "wof:lastmodified": 1583177856,
+    "wof:lastmodified": 1717022887,
     "wof:name": "VRD305 (KMCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

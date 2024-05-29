@@ -2,6 +2,10 @@
   "id": 1663004321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-10",
+    "date:inception_upper": "2017-01-10",
     "edtf:cessation": "2017-01-10~",
     "edtf:inception": "2017-01-10T03:01:51",
     "flysfo:airline": "Y4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170110-D-VOI-869",
     "sfomuseum:flight_number": [
-      "Y4869", 
+      "Y4869",
       "VOI869"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1663004321, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102191575, 
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663004321,
-    "wof:lastmodified": 1583174414,
+    "wof:lastmodified": 1717022913,
     "wof:name": "VOI869 (SFO-MMGL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.525627, 
-    -103.301974, 
+    -122.370943,
+    20.525627,
+    -103.301974,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-103.301974,20.525627]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679813875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-21",
+    "date:inception_upper": "2017-08-21",
     "edtf:cessation": "2017-08-21~",
     "edtf:inception": "2017-08-21T01:17:36",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170821-D-UAL-2426",
     "sfomuseum:flight_number": [
-      "UA2426", 
+      "UA2426",
       "UAL2426"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1679813875, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      102087579, 
+      102527513,
+      85922583,
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679813875,
-    "wof:lastmodified": 1583178295,
+    "wof:lastmodified": 1717022892,
     "wof:name": "UAL2426 (SFO-KIND)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -86.278675, 
+    -122.370943,
+    37.61799,
+    -86.278675,
     39.730262
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-86.278675,39.730262]],"type":"MultiPoint"}

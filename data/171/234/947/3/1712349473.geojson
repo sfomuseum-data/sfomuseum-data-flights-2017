@@ -2,6 +2,10 @@
   "id": 1712349473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-26",
+    "date:inception_upper": "2017-12-26",
     "edtf:cessation": "2017-12-26~",
     "edtf:inception": "2017-12-26T09:26:08",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171226-D-DAL-2383",
     "sfomuseum:flight_number": [
-      "DL2383", 
+      "DL2383",
       "DAL2383"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1712349473
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583180792,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712349473,
-    "wof:lastmodified": 1583180792,
+    "wof:lastmodified": 1717022851,
     "wof:name": "DAL2383 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

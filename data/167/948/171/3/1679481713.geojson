@@ -2,6 +2,10 @@
   "id": 1679481713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-30",
+    "date:cessation_upper": "2017-05-30",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-30T20:11:41",
     "edtf:inception": "2017-05-30~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20170530-A-FFT-665",
     "sfomuseum:flight_number": [
-      "F9665", 
+      "F9665",
       "FFT665"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1679481713, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159157271,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679481713,
-    "wof:lastmodified": 1583176681,
+    "wof:lastmodified": 1717022873,
     "wof:name": "FFT665 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

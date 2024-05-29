@@ -2,6 +2,10 @@
   "id": 1679113097,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-24",
+    "date:cessation_upper": "2017-03-24",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-24T01:05:09",
     "edtf:inception": "2017-03-24~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20170324-A-AAL-883",
     "sfomuseum:flight_number": [
-      "AA883", 
+      "AA883",
       "AAL883"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      1679113097, 
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679113097,
-    "wof:lastmodified": 1583175515,
+    "wof:lastmodified": 1717022862,
     "wof:name": "AAL883 (KPHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

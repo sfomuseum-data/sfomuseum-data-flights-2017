@@ -2,6 +2,10 @@
   "id": 1679748279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-05",
+    "date:inception_upper": "2017-08-05",
     "edtf:cessation": "2017-08-05~",
     "edtf:inception": "2017-08-05T16:37:33",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170805-D-UAL-281",
     "sfomuseum:flight_number": [
-      "UA281", 
+      "UA281",
       "UAL281"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      1679748279, 
-      85688637, 
-      102087579, 
+      102191575,
+      1159157271,
+      85633793,
+      102527513,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679748279,
-    "wof:lastmodified": 1583177977,
+    "wof:lastmodified": 1717022890,
     "wof:name": "UAL281 (SFO-KLAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

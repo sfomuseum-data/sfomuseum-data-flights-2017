@@ -2,6 +2,10 @@
   "id": 1679364287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-01",
+    "date:cessation_upper": "2017-04-30",
+    "date:inception_lower": "2017-04-28",
+    "date:inception_upper": "2017-04-28",
     "edtf:cessation": "2017-04-28~",
     "edtf:inception": "2017-04-28T14:07:23",
     "flysfo:airline": "VI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170428-D-VDA-3021",
     "sfomuseum:flight_number": [
-      "VI3021", 
+      "VI3021",
       "VDA3021"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1679364287, 
-      85688637, 
-      85922583, 
-      102527513, 
-      1159157271, 
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      102527513,
+      1159157271,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679364287,
-    "wof:lastmodified": 1583176117,
+    "wof:lastmodified": 1717022869,
     "wof:name": "VDA3021 (SFO-KISO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.331402, 
-    -77.608803, 
+    -122.370943,
+    35.331402,
+    -77.608803,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.608803,35.331402]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662573439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-13",
+    "date:cessation_upper": "2017-01-13",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-13T06:42:06",
     "edtf:inception": "2017-01-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551065,
     "sfomuseum:flight_id": "20170113-A-UAL-8",
     "sfomuseum:flight_number": [
-      "UA8", 
+      "UA8",
       "UAL8"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      1662573439, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1159157271, 
+      85922583,
+      102191575,
+      85633793,
+      85688637,
+      102087579,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662573439,
-    "wof:lastmodified": 1583174455,
+    "wof:lastmodified": 1717022895,
     "wof:name": "UAL8 (ZUUU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.579342, 
-    103.956661, 
+    -122.370943,
+    30.579342,
+    103.956661,
     37.61799
   ],
   "geometry": {"coordinates":[[103.956661,30.579342],[-122.370943,37.61799]],"type":"MultiPoint"}

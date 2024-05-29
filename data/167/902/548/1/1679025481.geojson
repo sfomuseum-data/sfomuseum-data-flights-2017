@@ -2,6 +2,10 @@
   "id": 1679025481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-10",
+    "date:cessation_upper": "2017-03-10",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-10T17:38:10",
     "edtf:inception": "2017-03-10~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20170310-A-SWA-4663",
     "sfomuseum:flight_number": [
-      "WN4663", 
+      "WN4663",
       "SWA4663"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1679025481, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679025481,
-    "wof:lastmodified": 1583175303,
+    "wof:lastmodified": 1717022861,
     "wof:name": "SWA4663 (KSAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

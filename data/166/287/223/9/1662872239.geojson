@@ -2,6 +2,10 @@
   "id": 1662872239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-19",
+    "date:cessation_upper": "2017-11-19",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-19T12:38:39",
     "edtf:inception": "2017-11-19~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20171119-A-UAL-1749",
     "sfomuseum:flight_number": [
-      "UA1749", 
+      "UA1749",
       "UAL1749"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662872239, 
-      1159157271, 
-      85922583, 
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
+      1159157271,
+      85922583,
+      85633793,
+      102527513,
+      102191575,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662872239,
-    "wof:lastmodified": 1583180056,
+    "wof:lastmodified": 1717022906,
     "wof:name": "UAL1749 (KBOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

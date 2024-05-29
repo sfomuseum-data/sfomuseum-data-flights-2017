@@ -2,6 +2,10 @@
   "id": 1662531563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-19",
+    "date:inception_upper": "2017-03-19",
     "edtf:cessation": "2017-03-19~",
     "edtf:inception": "2017-03-19T20:56:37",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170319-D-DAL-8914",
     "sfomuseum:flight_number": [
-      "DL8914", 
+      "DL8914",
       "DAL8914"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1662531563
+      1159157271,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583175447,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662531563,
-    "wof:lastmodified": 1583175447,
+    "wof:lastmodified": 1717022892,
     "wof:name": "DAL8914 (SFO-KSMF)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-121.589912,38.685533]],"type":"MultiPoint"}

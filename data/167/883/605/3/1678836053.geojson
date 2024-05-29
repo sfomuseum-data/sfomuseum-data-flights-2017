@@ -2,6 +2,10 @@
   "id": 1678836053,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-06",
+    "date:inception_upper": "2017-02-06",
     "edtf:cessation": "2017-02-06~",
     "edtf:inception": "2017-02-06T12:57:12",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170206-D-UAL-250",
     "sfomuseum:flight_number": [
-      "UA250", 
+      "UA250",
       "UAL250"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1678836053, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159157271,
+      102087579,
+      85633793,
+      85688637,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678836053,
-    "wof:lastmodified": 1583174801,
+    "wof:lastmodified": 1717022850,
     "wof:name": "UAL250 (SFO-KLAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

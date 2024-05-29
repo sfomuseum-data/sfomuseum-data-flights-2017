@@ -2,6 +2,10 @@
   "id": 1679462273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-25",
+    "date:inception_upper": "2017-05-25",
     "edtf:cessation": "2017-05-25~",
     "edtf:inception": "2017-05-25T12:17:49",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170525-D-VRD-276",
     "sfomuseum:flight_number": [
-      "VX276", 
+      "VX276",
       "VRD276"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1679462273, 
-      85688637, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679462273,
-    "wof:lastmodified": 1583176584,
+    "wof:lastmodified": 1717022873,
     "wof:name": "VRD276 (SFO-MMSD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662979903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-02",
+    "date:inception_upper": "2017-01-02",
     "edtf:cessation": "2017-01-02~",
     "edtf:inception": "2017-01-02T15:12:56",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170102-D-SWA-1886",
     "sfomuseum:flight_number": [
-      "WN1886", 
+      "WN1886",
       "SWA1886"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662979903, 
-      102087579, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
+      102087579,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662979903,
-    "wof:lastmodified": 1583174301,
+    "wof:lastmodified": 1717022908,
     "wof:name": "SWA1886 (SFO-KDEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

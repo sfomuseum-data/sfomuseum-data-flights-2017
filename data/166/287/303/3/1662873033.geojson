@@ -2,6 +2,10 @@
   "id": 1662873033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-19",
+    "date:cessation_upper": "2017-11-19",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-19T16:34:07",
     "edtf:inception": "2017-11-19~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20171119-A-UAL-887",
     "sfomuseum:flight_number": [
-      "UA887", 
+      "UA887",
       "UAL887"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      1662873033, 
-      85922583, 
+      102087579,
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662873033,
-    "wof:lastmodified": 1583180060,
+    "wof:lastmodified": 1717022906,
     "wof:name": "UAL887 (CYVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

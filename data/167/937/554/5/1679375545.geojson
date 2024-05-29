@@ -2,6 +2,10 @@
   "id": 1679375545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-01",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-01T20:22:38",
     "edtf:inception": "2017-05-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170501-A-UAL-538",
     "sfomuseum:flight_number": [
-      "UA538", 
+      "UA538",
       "UAL538"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679375545
+      85688637,
+      102191575,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583176171,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679375545,
-    "wof:lastmodified": 1583176171,
+    "wof:lastmodified": 1717022869,
     "wof:name": "UAL538 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

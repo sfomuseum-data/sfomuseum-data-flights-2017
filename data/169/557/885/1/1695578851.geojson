@@ -2,6 +2,10 @@
   "id": 1695578851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-29",
+    "date:inception_upper": "2017-08-29",
     "edtf:cessation": "2017-08-29~",
     "edtf:inception": "2017-08-29T11:06:47",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170829-D-UAL-1410",
     "sfomuseum:flight_number": [
-      "UA1410", 
+      "UA1410",
       "UAL1410"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      1695578851
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583178469,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695578851,
-    "wof:lastmodified": 1583178469,
+    "wof:lastmodified": 1717022854,
     "wof:name": "UAL1410 (SFO-KPSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}

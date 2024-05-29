@@ -2,6 +2,10 @@
   "id": 1662717979,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-09",
+    "date:cessation_upper": "2017-10-09",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-09T14:35:29",
     "edtf:inception": "2017-10-09~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171009-A-VRD-1865",
     "sfomuseum:flight_number": [
-      "VX1865", 
+      "VX1865",
       "VRD1865"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1662717979, 
-      85922583, 
-      1159157271, 
+      85688637,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662717979,
-    "wof:lastmodified": 1583179264,
+    "wof:lastmodified": 1717022870,
     "wof:name": "VRD1865 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

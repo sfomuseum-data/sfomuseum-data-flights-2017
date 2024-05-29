@@ -2,6 +2,10 @@
   "id": 1679792281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-16",
+    "date:inception_upper": "2017-08-16",
     "edtf:cessation": "2017-08-16~",
     "edtf:inception": "2017-08-16T06:23:57",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170816-D-DAL-975",
     "sfomuseum:flight_number": [
-      "DL975", 
+      "DL975",
       "DAL975"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1679792281
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      85633793,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583178191,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679792281,
-    "wof:lastmodified": 1583178191,
+    "wof:lastmodified": 1717022891,
     "wof:name": "DAL975 (SFO-KSLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

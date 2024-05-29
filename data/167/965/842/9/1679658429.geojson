@@ -2,6 +2,10 @@
   "id": 1679658429,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-14",
+    "date:cessation_upper": "2017-07-14",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-14T20:52:58",
     "edtf:inception": "2017-07-14~",
     "flysfo:airline": "B6",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20170714-A-JBU-277",
     "sfomuseum:flight_number": [
-      "B6277", 
+      "B6277",
       "JBU277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1679658429
+      102527513,
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177542,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679658429,
-    "wof:lastmodified": 1583177542,
+    "wof:lastmodified": 1717022885,
     "wof:name": "JBU277 (KFLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

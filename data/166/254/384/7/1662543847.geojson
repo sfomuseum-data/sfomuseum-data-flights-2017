@@ -2,6 +2,10 @@
   "id": 1662543847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-01",
+    "date:cessation_upper": "2017-10-31",
+    "date:inception_lower": "2017-10-09",
+    "date:inception_upper": "2017-10-09",
     "edtf:cessation": "2017-10-09~",
     "edtf:inception": "2017-10-09T11:40:33",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171009-D-AAL-855",
     "sfomuseum:flight_number": [
-      "AA855", 
+      "AA855",
       "AAL855"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1662543847, 
-      1159157271, 
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662543847,
-    "wof:lastmodified": 1583179260,
+    "wof:lastmodified": 1717022894,
     "wof:name": "AAL855 (SFO-KPHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

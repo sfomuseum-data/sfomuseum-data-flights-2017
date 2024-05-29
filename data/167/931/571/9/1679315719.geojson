@@ -2,6 +2,10 @@
   "id": 1679315719,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-18",
+    "date:cessation_upper": "2017-04-18",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-18T08:59:03",
     "edtf:inception": "2017-04-18~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170418-A-SWA-4652",
     "sfomuseum:flight_number": [
-      "WN4652", 
+      "WN4652",
       "SWA4652"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      1679315719
+      102527513,
+      85633793,
+      85688637,
+      102087579,
+      85922583,
+      1159157271,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175938,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679315719,
-    "wof:lastmodified": 1583175938,
+    "wof:lastmodified": 1717022867,
     "wof:name": "SWA4652 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

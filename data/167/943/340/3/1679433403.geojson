@@ -2,6 +2,10 @@
   "id": 1679433403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-17",
+    "date:cessation_upper": "2017-05-17",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-17T14:43:18",
     "edtf:inception": "2017-05-17~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20170517-A-UAL-348",
     "sfomuseum:flight_number": [
-      "UA348", 
+      "UA348",
       "UAL348"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1679433403
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583176446,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679433403,
-    "wof:lastmodified": 1583176446,
+    "wof:lastmodified": 1717022872,
     "wof:name": "UAL348 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

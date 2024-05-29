@@ -2,6 +2,10 @@
   "id": 1678779381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-25",
+    "date:inception_upper": "2017-01-25",
     "edtf:cessation": "2017-01-25~",
     "edtf:inception": "2017-01-25T12:14:28",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170125-D-DAL-1583",
     "sfomuseum:flight_number": [
-      "DL1583", 
+      "DL1583",
       "DAL1583"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1678779381, 
-      85922583, 
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678779381,
-    "wof:lastmodified": 1583174628,
+    "wof:lastmodified": 1717022850,
     "wof:name": "DAL1583 (SFO-KJFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

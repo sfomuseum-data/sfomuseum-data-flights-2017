@@ -2,6 +2,10 @@
   "id": 1695593315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-01",
     "edtf:cessation": "2017-09-01~",
     "edtf:inception": "2017-09-01T17:17:32",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170901-D-UAL-316",
     "sfomuseum:flight_number": [
-      "UA316", 
+      "UA316",
       "UAL316"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1695593315
+      85922583,
+      85688637,
+      1159157271,
+      102191575,
+      102527513,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583178538,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695593315,
-    "wof:lastmodified": 1583178538,
+    "wof:lastmodified": 1717022852,
     "wof:name": "UAL316 (SFO-CYVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

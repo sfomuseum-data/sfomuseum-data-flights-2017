@@ -2,6 +2,10 @@
   "id": 1679745533,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-04",
+    "date:cessation_upper": "2017-08-04",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-04T22:21:08",
     "edtf:inception": "2017-08-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20170804-A-SWA-1961",
     "sfomuseum:flight_number": [
-      "WN1961", 
+      "WN1961",
       "SWA1961"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679745533, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      85922583, 
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679745533,
-    "wof:lastmodified": 1583177963,
+    "wof:lastmodified": 1717022889,
     "wof:name": "SWA1961 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

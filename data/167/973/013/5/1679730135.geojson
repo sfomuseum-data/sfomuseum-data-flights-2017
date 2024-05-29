@@ -2,6 +2,10 @@
   "id": 1679730135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-01",
     "edtf:cessation": "2017-08-01~",
     "edtf:inception": "2017-08-01T09:47:47",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170801-D-VRD-176",
     "sfomuseum:flight_number": [
-      "VX176", 
+      "VX176",
       "VRD176"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1679730135, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
+      85633793,
+      102191575,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679730135,
-    "wof:lastmodified": 1583177888,
+    "wof:lastmodified": 1717022886,
     "wof:name": "VRD176 (SFO-KEWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

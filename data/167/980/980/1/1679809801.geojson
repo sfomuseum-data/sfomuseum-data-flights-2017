@@ -2,6 +2,10 @@
   "id": 1679809801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-20",
+    "date:cessation_upper": "2017-08-20",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-20T06:39:30",
     "edtf:inception": "2017-08-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527337,
     "sfomuseum:flight_id": "20170820-A-UAL-388",
     "sfomuseum:flight_number": [
-      "UA388", 
+      "UA388",
       "UAL388"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102087579, 
-      1679809801, 
-      85922583, 
-      102191575, 
-      85688637, 
+      85633793,
+      1159157271,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679809801,
-    "wof:lastmodified": 1583178276,
+    "wof:lastmodified": 1717022895,
     "wof:name": "UAL388 (KSBA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.427974, 
-    -119.837133, 
+    -122.370943,
+    34.427974,
+    -119.837133,
     37.61799
   ],
   "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}

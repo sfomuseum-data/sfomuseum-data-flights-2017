@@ -2,6 +2,10 @@
   "id": 1678772917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-23",
+    "date:cessation_upper": "2017-01-23",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-23T12:30:53",
     "edtf:inception": "2017-01-23~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20170123-A-DAL-996",
     "sfomuseum:flight_number": [
-      "DL996", 
+      "DL996",
       "DAL996"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      85633793, 
-      1678772917
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      1159157271,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583174598,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678772917,
-    "wof:lastmodified": 1583174598,
+    "wof:lastmodified": 1717022848,
     "wof:name": "DAL996 (KMSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

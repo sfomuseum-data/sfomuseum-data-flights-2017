@@ -2,6 +2,10 @@
   "id": 1712342883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-21",
+    "date:inception_upper": "2017-12-21",
     "edtf:cessation": "2017-12-21~",
     "edtf:inception": "2017-12-21T23:45:07",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171221-D-UAL-1191",
     "sfomuseum:flight_number": [
-      "UA1191", 
+      "UA1191",
       "UAL1191"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1712342883, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85922583, 
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
+      85688637,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712342883,
-    "wof:lastmodified": 1583180683,
+    "wof:lastmodified": 1717022893,
     "wof:name": "UAL1191 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}

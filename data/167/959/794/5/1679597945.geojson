@@ -2,6 +2,10 @@
   "id": 1679597945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-29",
+    "date:cessation_upper": "2017-06-29",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-29T22:40:01",
     "edtf:inception": "2017-06-29~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20170629-A-UAL-1762",
     "sfomuseum:flight_number": [
-      "UA1762", 
+      "UA1762",
       "UAL1762"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1679597945
+      1159157271,
+      85688637,
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583177246,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679597945,
-    "wof:lastmodified": 1583177246,
+    "wof:lastmodified": 1717022881,
     "wof:name": "UAL1762 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

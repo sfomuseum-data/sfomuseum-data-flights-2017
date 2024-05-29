@@ -2,6 +2,10 @@
   "id": 1695588103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-31",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-31~",
     "edtf:inception": "2017-08-31T13:43:54",
     "flysfo:airline": "KE",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170831-D-KAL-024",
     "sfomuseum:flight_number": [
-      "KE024", 
+      "KE024",
       "KAL024"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1695588103
+      102087579,
+      85633793,
+      1159157271,
+      85688637,
+      102527513,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583178513,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695588103,
-    "wof:lastmodified": 1583178513,
+    "wof:lastmodified": 1717022854,
     "wof:name": "KAL024 (SFO-RKSI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[126.661632,37.453966]],"type":"MultiPoint"}

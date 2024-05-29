@@ -2,6 +2,10 @@
   "id": 1678770525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-22",
+    "date:cessation_upper": "2017-01-22",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-22T17:36:57",
     "edtf:inception": "2017-01-22~",
     "flysfo:airline": "VS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20170122-A-VIR-41",
     "sfomuseum:flight_number": [
-      "VS41", 
+      "VS41",
       "VIR41"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1159157271, 
-      1678770525
+      85688637,
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      102527513,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583174587,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678770525,
-    "wof:lastmodified": 1583174587,
+    "wof:lastmodified": 1717022847,
     "wof:name": "VIR41 (EGLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

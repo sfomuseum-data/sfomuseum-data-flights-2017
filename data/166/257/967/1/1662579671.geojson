@@ -2,6 +2,10 @@
   "id": 1662579671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-02",
+    "date:cessation_upper": "2017-02-02",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-02T11:50:25",
     "edtf:inception": "2017-02-02~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532159,
     "sfomuseum:flight_id": "20170202-A-UAL-2042",
     "sfomuseum:flight_number": [
-      "UA2042", 
+      "UA2042",
       "UAL2042"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85922583, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1662579671
+      1159157271,
+      85633793,
+      85922583,
+      102087579,
+      102527513,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583174742,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662579671,
-    "wof:lastmodified": 1583174742,
+    "wof:lastmodified": 1717022898,
     "wof:name": "UAL2042 (KDCA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.041643, 
+    -122.370943,
+    37.61799,
+    -77.041643,
     38.850639
   ],
   "geometry": {"coordinates":[[-77.041643,38.850639],[-122.370943,37.61799]],"type":"MultiPoint"}

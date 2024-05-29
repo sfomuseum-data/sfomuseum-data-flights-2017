@@ -2,6 +2,10 @@
   "id": 1662835025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-09",
+    "date:cessation_upper": "2017-11-09",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-09T16:46:53",
     "edtf:inception": "2017-11-09~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171109-A-UAL-735T",
     "sfomuseum:flight_number": [
-      "UA735T", 
+      "UA735T",
       "UAL735T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      1662835025, 
-      102191575, 
-      102087579, 
+      102527513,
+      85922583,
+      1159157271,
+      85633793,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662835025,
-    "wof:lastmodified": 1583179863,
+    "wof:lastmodified": 1717022904,
     "wof:name": "UAL735T (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

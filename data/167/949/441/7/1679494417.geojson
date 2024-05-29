@@ -2,6 +2,10 @@
   "id": 1679494417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-04",
+    "date:inception_upper": "2017-06-04",
     "edtf:cessation": "2017-06-04~",
     "edtf:inception": "2017-06-04T11:40:02",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170604-D-SWA-4417",
     "sfomuseum:flight_number": [
-      "WN4417", 
+      "WN4417",
       "SWA4417"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1679494417, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
+      1159157271,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679494417,
-    "wof:lastmodified": 1583176743,
+    "wof:lastmodified": 1717022874,
     "wof:name": "SWA4417 (SFO-KPHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

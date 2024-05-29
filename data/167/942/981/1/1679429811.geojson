@@ -2,6 +2,10 @@
   "id": 1679429811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-16",
+    "date:cessation_upper": "2017-05-16",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-16T15:49:02",
     "edtf:inception": "2017-05-16~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20170516-A-ASA-316",
     "sfomuseum:flight_number": [
-      "AS316", 
+      "AS316",
       "ASA316"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679429811, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      85633793,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679429811,
-    "wof:lastmodified": 1583176429,
+    "wof:lastmodified": 1717022873,
     "wof:name": "ASA316 (KSEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

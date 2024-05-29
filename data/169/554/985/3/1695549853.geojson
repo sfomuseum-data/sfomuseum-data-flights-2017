@@ -2,6 +2,10 @@
   "id": 1695549853,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-22",
+    "date:cessation_upper": "2017-08-22",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-22T17:21:08",
     "edtf:inception": "2017-08-22~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527187,
     "sfomuseum:flight_id": "20170822-A-UAL-904",
     "sfomuseum:flight_number": [
-      "UA904", 
+      "UA904",
       "UAL904"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      1695549853
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583178331,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695549853,
-    "wof:lastmodified": 1583178331,
+    "wof:lastmodified": 1717022850,
     "wof:name": "UAL904 (KMFR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.874456, 
-    37.61799, 
-    -122.370943, 
+    -122.874456,
+    37.61799,
+    -122.370943,
     42.369651
   ],
   "geometry": {"coordinates":[[-122.874456,42.369651],[-122.370943,37.61799]],"type":"MultiPoint"}

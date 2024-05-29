@@ -2,6 +2,10 @@
   "id": 1679159145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-30",
+    "date:cessation_upper": "2017-03-30",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-30T19:08:34",
     "edtf:inception": "2017-03-30~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20170330-A-DAL-63",
     "sfomuseum:flight_number": [
-      "DL63", 
+      "DL63",
       "DAL63"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159157271, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1679159145
+      102191575,
+      85633793,
+      1159157271,
+      85922583,
+      102087579,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583175626,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679159145,
-    "wof:lastmodified": 1583175626,
+    "wof:lastmodified": 1717022864,
     "wof:name": "DAL63 (KATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

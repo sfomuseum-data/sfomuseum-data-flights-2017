@@ -2,6 +2,10 @@
   "id": 1679420553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-14",
+    "date:inception_upper": "2017-05-14",
     "edtf:cessation": "2017-05-14~",
     "edtf:inception": "2017-05-14T07:31:59",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170514-D-SWA-4192",
     "sfomuseum:flight_number": [
-      "WN4192", 
+      "WN4192",
       "SWA4192"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      1679420553
+      102527513,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159157271,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583176385,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679420553,
-    "wof:lastmodified": 1583176385,
+    "wof:lastmodified": 1717022869,
     "wof:name": "SWA4192 (SFO-KMDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

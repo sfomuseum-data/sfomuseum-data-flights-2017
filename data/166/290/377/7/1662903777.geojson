@@ -2,6 +2,10 @@
   "id": 1662903777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-28",
+    "date:inception_upper": "2017-11-28",
     "edtf:cessation": "2017-11-28~",
     "edtf:inception": "2017-11-28T17:39:08",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171128-D-VRD-1960",
     "sfomuseum:flight_number": [
-      "VX1960", 
+      "VX1960",
       "VRD1960"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1662903777
+      1159157271,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583180246,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662903777,
-    "wof:lastmodified": 1583180246,
+    "wof:lastmodified": 1717022907,
     "wof:name": "VRD1960 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

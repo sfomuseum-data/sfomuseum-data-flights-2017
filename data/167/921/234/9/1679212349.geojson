@@ -2,6 +2,10 @@
   "id": 1679212349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-06",
+    "date:cessation_upper": "2017-04-06",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-06T06:14:28",
     "edtf:inception": "2017-04-06~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20170406-A-UAL-2809",
     "sfomuseum:flight_number": [
-      "UA2809", 
+      "UA2809",
       "UAL2809"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679212349, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
+      102527513,
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679212349,
-    "wof:lastmodified": 1583175734,
+    "wof:lastmodified": 1717022865,
     "wof:name": "UAL2809 (RJAA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662985771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-04",
+    "date:cessation_upper": "2017-01-04",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-04T09:09:39",
     "edtf:inception": "2017-01-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20170104-A-UAL-870",
     "sfomuseum:flight_number": [
-      "UA870", 
+      "UA870",
       "UAL870"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1662985771, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
+      85688637,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662985771,
-    "wof:lastmodified": 1583174328,
+    "wof:lastmodified": 1717022912,
     "wof:name": "UAL870 (PHNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

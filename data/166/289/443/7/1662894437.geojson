@@ -2,6 +2,10 @@
   "id": 1662894437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-26",
+    "date:cessation_upper": "2017-11-26",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-26T18:42:08",
     "edtf:inception": "2017-11-26~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20171126-A-SWA-1865",
     "sfomuseum:flight_number": [
-      "WN1865", 
+      "WN1865",
       "SWA1865"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1662894437
+      1159157271,
+      85688637,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583180182,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662894437,
-    "wof:lastmodified": 1583180182,
+    "wof:lastmodified": 1717022907,
     "wof:name": "SWA1865 (STL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

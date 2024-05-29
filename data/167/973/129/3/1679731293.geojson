@@ -2,6 +2,10 @@
   "id": 1679731293,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-01",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-01T14:48:27",
     "edtf:inception": "2017-08-01~",
     "flysfo:airline": "VS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556861,
     "sfomuseum:flight_id": "20170801-A-VIR-125",
     "sfomuseum:flight_number": [
-      "VS125", 
+      "VS125",
       "VIR125"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1679731293, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679731293,
-    "wof:lastmodified": 1583177894,
+    "wof:lastmodified": 1717022886,
     "wof:name": "VIR125 (EGCC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -2.337608, 
+    -122.370943,
+    37.61799,
+    -2.337608,
     53.411253
   ],
   "geometry": {"coordinates":[[-2.337608,53.411253],[-122.370943,37.61799]],"type":"MultiPoint"}

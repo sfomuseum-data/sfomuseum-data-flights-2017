@@ -2,6 +2,10 @@
   "id": 1678849103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-08",
+    "date:cessation_upper": "2017-02-08",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-08T22:24:53",
     "edtf:inception": "2017-02-08~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20170208-A-VRD-193",
     "sfomuseum:flight_number": [
-      "VX193", 
+      "VX193",
       "VRD193"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      1678849103, 
-      85688637, 
-      102527513, 
-      85633793, 
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678849103,
-    "wof:lastmodified": 1583174837,
+    "wof:lastmodified": 1717022851,
     "wof:name": "VRD193 (KSLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679580151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-25",
+    "date:inception_upper": "2017-06-25",
     "edtf:cessation": "2017-06-25~",
     "edtf:inception": "2017-06-25T17:34:19",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170625-D-ACA-569",
     "sfomuseum:flight_number": [
-      "AC569", 
+      "AC569",
       "ACA569"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1679580151
+      85633793,
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177159,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679580151,
-    "wof:lastmodified": 1583177159,
+    "wof:lastmodified": 1717022877,
     "wof:name": "ACA569 (SFO-CYVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

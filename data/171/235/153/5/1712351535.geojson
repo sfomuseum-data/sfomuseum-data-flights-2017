@@ -2,6 +2,10 @@
   "id": 1712351535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-27",
+    "date:inception_upper": "2017-12-27",
     "edtf:cessation": "2017-12-27~",
     "edtf:inception": "2017-12-27T06:58:00",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171227-D-VRD-1710",
     "sfomuseum:flight_number": [
-      "VX1710", 
+      "VX1710",
       "VRD1710"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102087579, 
-      1712351535, 
-      1159157271, 
-      102527513, 
-      85633793, 
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712351535,
-    "wof:lastmodified": 1583180825,
+    "wof:lastmodified": 1717022892,
     "wof:name": "VRD1710 (SFO-DAL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-96.850523,32.845849]],"type":"MultiPoint"}

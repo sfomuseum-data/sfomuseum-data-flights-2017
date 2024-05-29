@@ -2,6 +2,10 @@
   "id": 1662878563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-22",
+    "date:cessation_upper": "2017-11-22",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-22T06:50:02",
     "edtf:inception": "2017-11-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20171122-A-UAL-1745",
     "sfomuseum:flight_number": [
-      "UA1745", 
+      "UA1745",
       "UAL1745"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      102527513, 
-      85688637, 
-      1662878563, 
+      85922583,
+      85633793,
+      102087579,
+      102191575,
+      102527513,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662878563,
-    "wof:lastmodified": 1583180089,
+    "wof:lastmodified": 1717022909,
     "wof:name": "UAL1745 (KPSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

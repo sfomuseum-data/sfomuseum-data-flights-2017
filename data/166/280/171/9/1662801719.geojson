@@ -2,6 +2,10 @@
   "id": 1662801719,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-30",
+    "date:cessation_upper": "2017-10-30",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-30T23:46:36",
     "edtf:inception": "2017-10-30~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525035,
     "sfomuseum:flight_id": "20171030-A-VRD-1101",
     "sfomuseum:flight_number": [
-      "VX1101", 
+      "VX1101",
       "VRD1101"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1662801719
+      1159157271,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583179691,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662801719,
-    "wof:lastmodified": 1583179691,
+    "wof:lastmodified": 1717022902,
     "wof:name": "VRD1101 (KBNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.126387, 
-    -86.676652, 
+    -122.370943,
+    36.126387,
+    -86.676652,
     37.61799
   ],
   "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}

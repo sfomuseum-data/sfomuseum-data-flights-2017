@@ -2,6 +2,10 @@
   "id": 1679482589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-01",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-01T05:34:05",
     "edtf:inception": "2017-06-01~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532929,
     "sfomuseum:flight_id": "20170601-A-VRD-048",
     "sfomuseum:flight_number": [
-      "VX048", 
+      "VX048",
       "VRD048"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      1679482589
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583176685,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679482589,
-    "wof:lastmodified": 1583176685,
+    "wof:lastmodified": 1717022874,
     "wof:name": "VRD048 (PHOG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}

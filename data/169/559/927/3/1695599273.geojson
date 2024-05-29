@@ -2,6 +2,10 @@
   "id": 1695599273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-03",
+    "date:inception_upper": "2017-09-03",
     "edtf:cessation": "2017-09-03~",
     "edtf:inception": "2017-09-03T11:50:40",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170903-D-UAL-685",
     "sfomuseum:flight_number": [
-      "UA685", 
+      "UA685",
       "UAL685"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      1695599273, 
-      85922583, 
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
+      85633793,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695599273,
-    "wof:lastmodified": 1583178568,
+    "wof:lastmodified": 1717022855,
     "wof:name": "UAL685 (SFO-CYVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

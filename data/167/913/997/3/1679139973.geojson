@@ -2,6 +2,10 @@
   "id": 1679139973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-28",
+    "date:cessation_upper": "2017-03-28",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-28T08:48:59",
     "edtf:inception": "2017-03-28~",
     "flysfo:airline": "OO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529173,
     "sfomuseum:flight_id": "20170328-A-SKW-5348",
     "sfomuseum:flight_number": [
-      "OO5348", 
+      "OO5348",
       "SKW5348"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85922583, 
-      1679139973, 
-      102527513, 
-      102191575, 
-      85633793, 
+      1159157271,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679139973,
-    "wof:lastmodified": 1583175584,
+    "wof:lastmodified": 1717022865,
     "wof:name": "SKW5348 (KABQ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.048762, 
-    -106.620586, 
+    -122.370943,
+    35.048762,
+    -106.620586,
     37.61799
   ],
   "geometry": {"coordinates":[[-106.620586,35.048762],[-122.370943,37.61799]],"type":"MultiPoint"}

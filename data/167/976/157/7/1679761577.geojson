@@ -2,6 +2,10 @@
   "id": 1679761577,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-08",
+    "date:inception_upper": "2017-08-08",
     "edtf:cessation": "2017-08-08~",
     "edtf:inception": "2017-08-08T20:21:57",
     "flysfo:airline": "AB",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170808-D-BER-7393",
     "sfomuseum:flight_number": [
-      "AB7393", 
+      "AB7393",
       "BER7393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1679761577, 
-      85922583, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102191575, 
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      85633793,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679761577,
-    "wof:lastmodified": 1583178043,
+    "wof:lastmodified": 1717022887,
     "wof:name": "BER7393 (SFO-EDDL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    6.763227, 
+    -122.370943,
+    37.61799,
+    6.763227,
     51.260024
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[6.763227,51.260024]],"type":"MultiPoint"}

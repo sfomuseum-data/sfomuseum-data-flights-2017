@@ -2,6 +2,10 @@
   "id": 1678931623,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-24",
+    "date:cessation_upper": "2017-02-24",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-24T12:14:12",
     "edtf:inception": "2017-02-24~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20170224-A-DAL-2443",
     "sfomuseum:flight_number": [
-      "DL2443", 
+      "DL2443",
       "DAL2443"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      1678931623, 
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678931623,
-    "wof:lastmodified": 1583175069,
+    "wof:lastmodified": 1717022858,
     "wof:name": "DAL2443 (KSLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

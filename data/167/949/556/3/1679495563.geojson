@@ -2,6 +2,10 @@
   "id": 1679495563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-04",
+    "date:inception_upper": "2017-06-04",
     "edtf:cessation": "2017-06-04~",
     "edtf:inception": "2017-06-04T17:45:57",
     "flysfo:airline": "EI",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170604-D-EIN-146",
     "sfomuseum:flight_number": [
-      "EI146", 
+      "EI146",
       "EIN146"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1679495563
+      102087579,
+      85922583,
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583176748,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679495563,
-    "wof:lastmodified": 1583176748,
+    "wof:lastmodified": 1717022875,
     "wof:name": "EIN146 (SFO-EIDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -6.246362, 
+    -122.370943,
+    37.61799,
+    -6.246362,
     53.425842
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-6.246362,53.425842]],"type":"MultiPoint"}

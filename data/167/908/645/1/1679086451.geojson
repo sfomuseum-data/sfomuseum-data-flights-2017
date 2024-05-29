@@ -2,6 +2,10 @@
   "id": 1679086451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-19",
+    "date:inception_upper": "2017-03-19",
     "edtf:cessation": "2017-03-19~",
     "edtf:inception": "2017-03-19T23:45:02",
     "flysfo:airline": "QF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170319-D-QFA-74",
     "sfomuseum:flight_number": [
-      "QF74", 
+      "QF74",
       "QFA74"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102087579, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      1679086451
+      85922583,
+      85688637,
+      102087579,
+      102191575,
+      1159157271,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583175449,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679086451,
-    "wof:lastmodified": 1583175449,
+    "wof:lastmodified": 1717022862,
     "wof:name": "QFA74 (SFO-YSSY)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    -33.934928, 
-    151.173388, 
+    -122.370943,
+    -33.934928,
+    151.173388,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[151.173388,-33.934928]],"type":"MultiPoint"}

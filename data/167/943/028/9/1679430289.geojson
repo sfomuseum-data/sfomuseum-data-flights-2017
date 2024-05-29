@@ -2,6 +2,10 @@
   "id": 1679430289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-16",
+    "date:cessation_upper": "2017-05-16",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-16T18:24:38",
     "edtf:inception": "2017-05-16~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170516-A-UAL-529",
     "sfomuseum:flight_number": [
-      "UA529", 
+      "UA529",
       "UAL529"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1679430289, 
-      1159157271, 
-      85922583, 
+      85633793,
+      102087579,
+      85688637,
+      102191575,
+      1159157271,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679430289,
-    "wof:lastmodified": 1583176432,
+    "wof:lastmodified": 1717022871,
     "wof:name": "UAL529 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662983391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-03",
+    "date:inception_upper": "2017-01-03",
     "edtf:cessation": "2017-01-03~",
     "edtf:inception": "2017-01-03T14:36:42",
     "flysfo:airline": "MU",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170103-D-CES-768",
     "sfomuseum:flight_number": [
-      "MU768", 
+      "MU768",
       "CES768"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      1662983391
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583174316,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662983391,
-    "wof:lastmodified": 1583174316,
+    "wof:lastmodified": 1717022910,
     "wof:name": "CES768 (SFO-ZSQD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.266102, 
-    120.374001, 
+    -122.370943,
+    36.266102,
+    120.374001,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[120.374001,36.266102]],"type":"MultiPoint"}

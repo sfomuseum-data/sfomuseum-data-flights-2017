@@ -2,6 +2,10 @@
   "id": 1662563839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-02",
+    "date:cessation_upper": "2017-12-02",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-02T20:26:16",
     "edtf:inception": "2017-12-02~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20171202-A-SWA-2995",
     "sfomuseum:flight_number": [
-      "WN2995", 
+      "WN2995",
       "SWA2995"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1662563839
+      85688637,
+      1159157271,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583180313,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662563839,
-    "wof:lastmodified": 1583180313,
+    "wof:lastmodified": 1717022895,
     "wof:name": "SWA2995 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679169845,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-31",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-31T23:57:35",
     "edtf:inception": "2017-03-31~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20170331-A-DAL-8944",
     "sfomuseum:flight_number": [
-      "DL8944", 
+      "DL8944",
       "DAL8944"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      1679169845
+      102087579,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175650,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679169845,
-    "wof:lastmodified": 1583175650,
+    "wof:lastmodified": 1717022865,
     "wof:name": "DAL8944 (KSLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

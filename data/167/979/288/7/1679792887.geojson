@@ -2,6 +2,10 @@
   "id": 1679792887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-16",
+    "date:cessation_upper": "2017-08-16",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-16T09:13:39",
     "edtf:inception": "2017-08-16~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528985,
     "sfomuseum:flight_id": "20170816-A-JBU-1936",
     "sfomuseum:flight_number": [
-      "B61936", 
+      "B61936",
       "JBU1936"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      1679792887, 
-      85922583, 
-      85688637, 
-      102191575, 
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679792887,
-    "wof:lastmodified": 1583178193,
+    "wof:lastmodified": 1717022891,
     "wof:name": "JBU1936 (KLGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.814039, 
-    -118.148993, 
+    -122.370943,
+    33.814039,
+    -118.148993,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.148993,33.814039],[-122.370943,37.61799]],"type":"MultiPoint"}

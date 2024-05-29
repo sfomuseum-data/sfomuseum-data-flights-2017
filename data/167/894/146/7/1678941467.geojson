@@ -2,6 +2,10 @@
   "id": 1678941467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-25",
+    "date:inception_upper": "2017-02-25",
     "edtf:cessation": "2017-02-25~",
     "edtf:inception": "2017-02-25T23:20:29",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170225-D-DAL-1446",
     "sfomuseum:flight_number": [
-      "DL1446", 
+      "DL1446",
       "DAL1446"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85922583, 
-      1678941467, 
+      85633793,
+      1159157271,
+      102527513,
+      102087579,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678941467,
-    "wof:lastmodified": 1583175093,
+    "wof:lastmodified": 1717022857,
     "wof:name": "DAL1446 (SFO-KATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

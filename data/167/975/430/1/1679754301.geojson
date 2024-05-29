@@ -2,6 +2,10 @@
   "id": 1679754301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-07",
+    "date:cessation_upper": "2017-08-07",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-07T07:08:43",
     "edtf:inception": "2017-08-07~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20170807-A-ASA-743",
     "sfomuseum:flight_number": [
-      "AS743", 
+      "AS743",
       "ASA743"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      1679754301, 
-      102191575, 
+      85633793,
+      85688637,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679754301,
-    "wof:lastmodified": 1583178007,
+    "wof:lastmodified": 1717022888,
     "wof:name": "ASA743 (KSLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

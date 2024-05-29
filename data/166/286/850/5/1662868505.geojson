@@ -2,6 +2,10 @@
   "id": 1662868505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-18",
+    "date:cessation_upper": "2017-11-18",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-18T11:06:24",
     "edtf:inception": "2017-11-18~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20171118-A-SWA-2506",
     "sfomuseum:flight_number": [
-      "WN2506", 
+      "WN2506",
       "SWA2506"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662868505, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      102191575, 
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662868505,
-    "wof:lastmodified": 1583180037,
+    "wof:lastmodified": 1717022909,
     "wof:name": "SWA2506 (KMDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

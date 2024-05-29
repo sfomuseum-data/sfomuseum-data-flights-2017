@@ -2,6 +2,10 @@
   "id": 1679796541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-16",
+    "date:inception_upper": "2017-08-16",
     "edtf:cessation": "2017-08-16~",
     "edtf:inception": "2017-08-16T23:36:47",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170816-D-UAL-2078",
     "sfomuseum:flight_number": [
-      "UA2078", 
+      "UA2078",
       "UAL2078"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      1679796541, 
-      85922583, 
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679796541,
-    "wof:lastmodified": 1583178212,
+    "wof:lastmodified": 1717022893,
     "wof:name": "UAL2078 (SFO-KMCO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}

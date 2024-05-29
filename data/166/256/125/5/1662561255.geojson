@@ -2,6 +2,10 @@
   "id": 1662561255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-25",
+    "date:cessation_upper": "2017-11-25",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-25T21:27:49",
     "edtf:inception": "2017-11-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20171125-A-SWA-2539",
     "sfomuseum:flight_number": [
-      "WN2539", 
+      "WN2539",
       "SWA2539"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102527513, 
-      1662561255, 
-      102087579, 
-      85688637, 
-      102191575, 
+      1159157271,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662561255,
-    "wof:lastmodified": 1583180155,
+    "wof:lastmodified": 1717022894,
     "wof:name": "SWA2539 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

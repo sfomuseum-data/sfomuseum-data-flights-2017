@@ -2,6 +2,10 @@
   "id": 1679766221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-10",
+    "date:cessation_upper": "2017-08-10",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-10T00:45:24",
     "edtf:inception": "2017-08-10~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20170810-A-VRD-357",
     "sfomuseum:flight_number": [
-      "VX357", 
+      "VX357",
       "VRD357"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      1679766221, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
+      85688637,
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679766221,
-    "wof:lastmodified": 1583178068,
+    "wof:lastmodified": 1717022890,
     "wof:name": "VRD357 (KBOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

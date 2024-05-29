@@ -2,6 +2,10 @@
   "id": 1679335385,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-20",
+    "date:cessation_upper": "2017-04-20",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-20T15:12:26",
     "edtf:inception": "2017-04-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533771,
     "sfomuseum:flight_id": "20170420-A-UAL-2582",
     "sfomuseum:flight_number": [
-      "UA2582", 
+      "UA2582",
       "UAL2582"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      1679335385, 
-      85688637, 
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679335385,
-    "wof:lastmodified": 1583175979,
+    "wof:lastmodified": 1717022867,
     "wof:name": "UAL2582 (KRIV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.896471, 
-    -117.254857, 
+    -122.370943,
+    33.896471,
+    -117.254857,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.254857,33.896471],[-122.370943,37.61799]],"type":"MultiPoint"}

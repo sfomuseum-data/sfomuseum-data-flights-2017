@@ -2,6 +2,10 @@
   "id": 1662583105,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-13",
+    "date:cessation_upper": "2017-02-13",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-13T17:59:34",
     "edtf:inception": "2017-02-13~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20170213-A-SWA-4021",
     "sfomuseum:flight_number": [
-      "WN4021", 
+      "WN4021",
       "SWA4021"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662583105, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159157271, 
+      102527513,
+      102191575,
+      85688637,
+      85633793,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662583105,
-    "wof:lastmodified": 1583174906,
+    "wof:lastmodified": 1717022895,
     "wof:name": "SWA4021 (KBUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

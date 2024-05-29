@@ -2,6 +2,10 @@
   "id": 1679447739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-21",
+    "date:cessation_upper": "2017-05-21",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-21T15:00:00",
     "edtf:inception": "2017-05-21~",
     "flysfo:airline": "5Y",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20170521-A-GTI-2848",
     "sfomuseum:flight_number": [
-      "5Y2848", 
+      "5Y2848",
       "GTI2848"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679447739, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      85633793, 
+      102527513,
+      102087579,
+      102191575,
+      1159157271,
+      85922583,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679447739,
-    "wof:lastmodified": 1583176515,
+    "wof:lastmodified": 1717022875,
     "wof:name": "GTI2848 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

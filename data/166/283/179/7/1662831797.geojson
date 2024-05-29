@@ -2,6 +2,10 @@
   "id": 1662831797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-08",
+    "date:inception_upper": "2017-11-08",
     "edtf:cessation": "2017-11-08~",
     "edtf:inception": "2017-11-08T20:38:12",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171108-D-UAL-1442",
     "sfomuseum:flight_number": [
-      "UA1442", 
+      "UA1442",
       "UAL1442"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
-      1662831797
+      1159157271,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583179845,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662831797,
-    "wof:lastmodified": 1583179845,
+    "wof:lastmodified": 1717022904,
     "wof:name": "UAL1442 (SFO-KGEG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -117.531916, 
+    -122.370943,
+    37.61799,
+    -117.531916,
     47.625686
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.531916,47.625686]],"type":"MultiPoint"}

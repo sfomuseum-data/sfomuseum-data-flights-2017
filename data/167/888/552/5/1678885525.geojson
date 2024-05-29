@@ -2,6 +2,10 @@
   "id": 1678885525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-15",
+    "date:cessation_upper": "2017-02-15",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-15T18:19:06",
     "edtf:inception": "2017-02-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550865,
     "sfomuseum:flight_id": "20170215-A-UAL-2151",
     "sfomuseum:flight_number": [
-      "UA2151", 
+      "UA2151",
       "UAL2151"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1678885525, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1159157271, 
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678885525,
-    "wof:lastmodified": 1583174936,
+    "wof:lastmodified": 1717022854,
     "wof:name": "UAL2151 (ZSAM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    24.540839, 
-    118.135698, 
+    -122.370943,
+    24.540839,
+    118.135698,
     37.61799
   ],
   "geometry": {"coordinates":[[118.135698,24.540839],[-122.370943,37.61799]],"type":"MultiPoint"}

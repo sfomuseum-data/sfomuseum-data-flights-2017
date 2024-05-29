@@ -2,6 +2,10 @@
   "id": 1662754421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-18",
+    "date:cessation_upper": "2017-10-18",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-18T20:07:02",
     "edtf:inception": "2017-10-18~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20171018-A-UAL-1584",
     "sfomuseum:flight_number": [
-      "UA1584", 
+      "UA1584",
       "UAL1584"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      1662754421
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      1159157271,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583179449,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662754421,
-    "wof:lastmodified": 1583179449,
+    "wof:lastmodified": 1717022888,
     "wof:name": "UAL1584 (KEWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

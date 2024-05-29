@@ -2,6 +2,10 @@
   "id": 1679257077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-01",
+    "date:cessation_upper": "2017-04-30",
+    "date:inception_lower": "2017-04-11",
+    "date:inception_upper": "2017-04-11",
     "edtf:cessation": "2017-04-11~",
     "edtf:inception": "2017-04-11T10:10:21",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170411-D-ASA-222",
     "sfomuseum:flight_number": [
-      "AS222", 
+      "AS222",
       "ASA222"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679257077, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679257077,
-    "wof:lastmodified": 1583175823,
+    "wof:lastmodified": 1717022866,
     "wof:name": "ASA222 (SFO-MMPR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}

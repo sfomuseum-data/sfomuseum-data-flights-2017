@@ -2,6 +2,10 @@
   "id": 1662816407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-03",
+    "date:inception_upper": "2017-11-03",
     "edtf:cessation": "2017-11-03~",
     "edtf:inception": "2017-11-03T20:14:15",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171103-D-UAL-766",
     "sfomuseum:flight_number": [
-      "UA766", 
+      "UA766",
       "UAL766"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102527513, 
-      1159157271, 
-      1662816407
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      102527513,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583179767,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662816407,
-    "wof:lastmodified": 1583179767,
+    "wof:lastmodified": 1717022904,
     "wof:name": "UAL766 (SFO-KPDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

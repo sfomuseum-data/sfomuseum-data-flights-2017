@@ -2,6 +2,10 @@
   "id": 1679526907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-12",
+    "date:inception_upper": "2017-06-12",
     "edtf:cessation": "2017-06-12~",
     "edtf:inception": "2017-06-12T16:22:04",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170612-D-AAL-545",
     "sfomuseum:flight_number": [
-      "AA545", 
+      "AA545",
       "AAL545"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      1679526907, 
-      85922583, 
-      1159157271, 
-      85633793, 
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679526907,
-    "wof:lastmodified": 1583176900,
+    "wof:lastmodified": 1717022879,
     "wof:name": "AAL545 (SFO-KPHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

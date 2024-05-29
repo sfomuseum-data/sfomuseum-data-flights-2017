@@ -2,6 +2,10 @@
   "id": 1695572831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-27",
+    "date:cessation_upper": "2017-08-27",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-27T21:59:07",
     "edtf:inception": "2017-08-27~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20170827-A-DAL-1461",
     "sfomuseum:flight_number": [
-      "DL1461", 
+      "DL1461",
       "DAL1461"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1695572831, 
-      102191575, 
-      85633793, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695572831,
-    "wof:lastmodified": 1583178441,
+    "wof:lastmodified": 1717022851,
     "wof:name": "DAL1461 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

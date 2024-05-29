@@ -2,6 +2,10 @@
   "id": 1695552315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-23",
+    "date:cessation_upper": "2017-08-23",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-23T10:12:21",
     "edtf:inception": "2017-08-23~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20170823-A-VRD-201",
     "sfomuseum:flight_number": [
-      "VX201", 
+      "VX201",
       "VRD201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1695552315, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695552315,
-    "wof:lastmodified": 1583178343,
+    "wof:lastmodified": 1717022850,
     "wof:name": "VRD201 (KORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

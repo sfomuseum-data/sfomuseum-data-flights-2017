@@ -2,6 +2,10 @@
   "id": 1662703315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-05",
+    "date:cessation_upper": "2017-10-05",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-05T18:09:00",
     "edtf:inception": "2017-10-05~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20171005-A-VRD-1279",
     "sfomuseum:flight_number": [
-      "VX1279", 
+      "VX1279",
       "VRD1279"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      1662703315
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583179188,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662703315,
-    "wof:lastmodified": 1583179188,
+    "wof:lastmodified": 1717022864,
     "wof:name": "VRD1279 (MMSD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

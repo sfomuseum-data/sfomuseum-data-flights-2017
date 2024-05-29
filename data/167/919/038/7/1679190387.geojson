@@ -2,6 +2,10 @@
   "id": 1679190387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-03",
+    "date:cessation_upper": "2017-04-03",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-03T14:51:19",
     "edtf:inception": "2017-04-03~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20170403-A-UAL-72",
     "sfomuseum:flight_number": [
-      "UA72", 
+      "UA72",
       "UAL72"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1679190387, 
-      102191575, 
+      1159157271,
+      102087579,
+      102527513,
+      85633793,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679190387,
-    "wof:lastmodified": 1583175691,
+    "wof:lastmodified": 1717022864,
     "wof:name": "UAL72 (PHNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

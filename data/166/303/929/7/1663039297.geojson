@@ -2,6 +2,10 @@
   "id": 1663039297,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-21",
+    "date:cessation_upper": "2017-01-21",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-21T17:25:48",
     "edtf:inception": "2017-01-21~",
     "flysfo:airline": "CA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550367,
     "sfomuseum:flight_id": "20170121-A-CCA-785",
     "sfomuseum:flight_number": [
-      "CA785", 
+      "CA785",
       "CCA785"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1663039297, 
-      102087579, 
-      85922583, 
+      1159157271,
+      102191575,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663039297,
-    "wof:lastmodified": 1583174574,
+    "wof:lastmodified": 1717022916,
     "wof:name": "CCA785 (ZBAA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    116.586155, 
+    -122.370943,
+    37.61799,
+    116.586155,
     40.068469
   ],
   "geometry": {"coordinates":[[116.586155,40.068469],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662654343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-23",
+    "date:inception_upper": "2017-08-23",
     "edtf:cessation": "2017-08-23~",
     "edtf:inception": "2017-08-23T15:03:59",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170823-D-SWA-6360",
     "sfomuseum:flight_number": [
-      "WN6360", 
+      "WN6360",
       "SWA6360"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1662654343, 
-      1159157271, 
-      102191575, 
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      1159157271,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662654343,
-    "wof:lastmodified": 1583178348,
+    "wof:lastmodified": 1717022901,
     "wof:name": "SWA6360 (SFO-KMKE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]],"type":"MultiPoint"}

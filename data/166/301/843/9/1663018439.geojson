@@ -2,6 +2,10 @@
   "id": 1663018439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-15",
+    "date:inception_upper": "2017-01-15",
     "edtf:cessation": "2017-01-15~",
     "edtf:inception": "2017-01-15T06:23:25",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170115-D-DAL-2524",
     "sfomuseum:flight_number": [
-      "DL2524", 
+      "DL2524",
       "DAL2524"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1663018439
+      102087579,
+      85688637,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583174479,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663018439,
-    "wof:lastmodified": 1583174479,
+    "wof:lastmodified": 1717022915,
     "wof:name": "DAL2524 (SFO-KSLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

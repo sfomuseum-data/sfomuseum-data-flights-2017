@@ -2,6 +2,10 @@
   "id": 1662609017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-01",
     "edtf:cessation": "2017-05-01~",
     "edtf:inception": "2017-05-01T00:19:32",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170501-D-FFT-1194",
     "sfomuseum:flight_number": [
-      "F91194", 
+      "F91194",
       "FFT1194"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1662609017, 
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662609017,
-    "wof:lastmodified": 1583176156,
+    "wof:lastmodified": 1717022899,
     "wof:name": "FFT1194 (SFO-KCVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}

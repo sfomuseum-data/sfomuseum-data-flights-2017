@@ -2,6 +2,10 @@
   "id": 1695648869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-15",
+    "date:inception_upper": "2017-09-15",
     "edtf:cessation": "2017-09-15~",
     "edtf:inception": "2017-09-15T23:20:04",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170915-D-UAL-1152",
     "sfomuseum:flight_number": [
-      "UA1152", 
+      "UA1152",
       "UAL1152"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1695648869
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583178805,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695648869,
-    "wof:lastmodified": 1583178805,
+    "wof:lastmodified": 1717022858,
     "wof:name": "UAL1152 (SFO-KATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

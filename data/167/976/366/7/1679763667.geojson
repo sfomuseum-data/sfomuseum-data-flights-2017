@@ -2,6 +2,10 @@
   "id": 1679763667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-09",
+    "date:cessation_upper": "2017-08-09",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-09T12:06:42",
     "edtf:inception": "2017-08-09~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20170809-A-AAL-461",
     "sfomuseum:flight_number": [
-      "AA461", 
+      "AA461",
       "AAL461"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      1679763667, 
-      85688637, 
+      102191575,
+      85922583,
+      102527513,
+      85633793,
+      1159157271,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679763667,
-    "wof:lastmodified": 1583178054,
+    "wof:lastmodified": 1717022888,
     "wof:name": "AAL461 (KCLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662865491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-17",
+    "date:cessation_upper": "2017-11-17",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-17T15:04:44",
     "edtf:inception": "2017-11-17~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20171117-A-DAL-1806",
     "sfomuseum:flight_number": [
-      "DL1806", 
+      "DL1806",
       "DAL1806"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1662865491, 
-      102191575, 
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662865491,
-    "wof:lastmodified": 1583180022,
+    "wof:lastmodified": 1717022908,
     "wof:name": "DAL1806 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

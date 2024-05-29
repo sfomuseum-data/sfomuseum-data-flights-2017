@@ -2,6 +2,10 @@
   "id": 1679460113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-24",
+    "date:cessation_upper": "2017-05-24",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-24T20:17:17",
     "edtf:inception": "2017-05-24~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20170524-A-ASA-386",
     "sfomuseum:flight_number": [
-      "AS386", 
+      "AS386",
       "ASA386"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      102527513, 
-      1679460113, 
-      1159157271, 
-      85688637, 
+      85633793,
+      85922583,
+      102087579,
+      102527513,
+      1159157271,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679460113,
-    "wof:lastmodified": 1583176574,
+    "wof:lastmodified": 1717022871,
     "wof:name": "ASA386 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

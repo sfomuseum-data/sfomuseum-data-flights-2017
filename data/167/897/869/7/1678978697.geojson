@@ -2,6 +2,10 @@
   "id": 1678978697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-03",
+    "date:cessation_upper": "2017-03-03",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-03T23:05:56",
     "edtf:inception": "2017-03-03~",
     "flysfo:airline": "TA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556081,
     "sfomuseum:flight_id": "20170303-A-TAI-560",
     "sfomuseum:flight_number": [
-      "TA560", 
+      "TA560",
       "TAI560"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1678978697
+      85633793,
+      102087579,
+      85688637,
+      1159157271,
+      102527513,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175194,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678978697,
-    "wof:lastmodified": 1583175194,
+    "wof:lastmodified": 1717022860,
     "wof:name": "TAI560 (MSLP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.444749, 
-    -89.058566, 
+    -122.370943,
+    13.444749,
+    -89.058566,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.058566,13.444749],[-122.370943,37.61799]],"type":"MultiPoint"}

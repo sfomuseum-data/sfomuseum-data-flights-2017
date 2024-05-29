@@ -2,6 +2,10 @@
   "id": 1679245379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-09",
+    "date:cessation_upper": "2017-04-09",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-09T23:13:54",
     "edtf:inception": "2017-04-09~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20170409-A-SWA-4471",
     "sfomuseum:flight_number": [
-      "WN4471", 
+      "WN4471",
       "SWA4471"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1679245379
+      1159157271,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583175801,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679245379,
-    "wof:lastmodified": 1583175801,
+    "wof:lastmodified": 1717022866,
     "wof:name": "SWA4471 (KMDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

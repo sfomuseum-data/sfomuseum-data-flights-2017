@@ -2,6 +2,10 @@
   "id": 1679742949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-04",
+    "date:inception_upper": "2017-08-04",
     "edtf:cessation": "2017-08-04~",
     "edtf:inception": "2017-08-04T11:18:35",
     "flysfo:airline": "Y4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170804-D-VOI-927",
     "sfomuseum:flight_number": [
-      "Y4927", 
+      "Y4927",
       "VOI927"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1679742949, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
+      85922583,
+      85633793,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679742949,
-    "wof:lastmodified": 1583177951,
+    "wof:lastmodified": 1717022888,
     "wof:name": "VOI927 (SFO-MMMX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}

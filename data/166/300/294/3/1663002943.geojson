@@ -2,6 +2,10 @@
   "id": 1663002943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-01-31",
+    "date:inception_lower": "2017-01-09",
+    "date:inception_upper": "2017-01-09",
     "edtf:cessation": "2017-01-09~",
     "edtf:inception": "2017-01-09T16:53:37",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170109-D-UAL-286",
     "sfomuseum:flight_number": [
-      "UA286", 
+      "UA286",
       "UAL286"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1663002943, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
+      85922583,
+      85633793,
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663002943,
-    "wof:lastmodified": 1583174408,
+    "wof:lastmodified": 1717022913,
     "wof:name": "UAL286 (SFO-KEUG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]],"type":"MultiPoint"}

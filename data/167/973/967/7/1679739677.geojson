@@ -2,6 +2,10 @@
   "id": 1679739677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-03",
+    "date:cessation_upper": "2017-08-03",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-03T15:12:18",
     "edtf:inception": "2017-08-03~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20170803-A-UAL-2076",
     "sfomuseum:flight_number": [
-      "UA2076", 
+      "UA2076",
       "UAL2076"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      85633793, 
-      1679739677, 
-      85688637, 
-      102191575, 
-      102087579, 
+      1159157271,
+      85922583,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679739677,
-    "wof:lastmodified": 1583177935,
+    "wof:lastmodified": 1717022890,
     "wof:name": "UAL2076 (KPSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

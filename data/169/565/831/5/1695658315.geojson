@@ -2,6 +2,10 @@
   "id": 1695658315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-18",
+    "date:cessation_upper": "2017-09-18",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-18T14:28:28",
     "edtf:inception": "2017-09-18~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20170918-A-KAL-025",
     "sfomuseum:flight_number": [
-      "KE025", 
+      "KE025",
       "KAL025"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      1695658315, 
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695658315,
-    "wof:lastmodified": 1583178851,
+    "wof:lastmodified": 1717022858,
     "wof:name": "KAL025 (RKSI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

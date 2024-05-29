@@ -2,6 +2,10 @@
   "id": 1662966917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-15",
+    "date:inception_upper": "2017-12-15",
     "edtf:cessation": "2017-12-15~",
     "edtf:inception": "2017-12-15T22:40:31",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171215-D-UAL-1413",
     "sfomuseum:flight_number": [
-      "UA1413", 
+      "UA1413",
       "UAL1413"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      1662966917
+      85922583,
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      1159157271,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583180565,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662966917,
-    "wof:lastmodified": 1583180565,
+    "wof:lastmodified": 1717022912,
     "wof:name": "UAL1413 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

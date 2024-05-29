@@ -2,6 +2,10 @@
   "id": 1662902675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-28",
+    "date:cessation_upper": "2017-11-28",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-28T12:25:09",
     "edtf:inception": "2017-11-28~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20171128-A-VRD-1345",
     "sfomuseum:flight_number": [
-      "VX1345", 
+      "VX1345",
       "VRD1345"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1662902675, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159157271, 
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662902675,
-    "wof:lastmodified": 1583180241,
+    "wof:lastmodified": 1717022906,
     "wof:name": "VRD1345 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

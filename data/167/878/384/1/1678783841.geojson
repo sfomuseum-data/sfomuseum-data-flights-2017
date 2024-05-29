@@ -2,6 +2,10 @@
   "id": 1678783841,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-26",
+    "date:cessation_upper": "2017-01-26",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-26T18:58:47",
     "edtf:inception": "2017-01-26~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20170126-A-AAL-723",
     "sfomuseum:flight_number": [
-      "AA723", 
+      "AA723",
       "AAL723"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1678783841, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      85688637, 
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678783841,
-    "wof:lastmodified": 1583174648,
+    "wof:lastmodified": 1717022848,
     "wof:name": "AAL723 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

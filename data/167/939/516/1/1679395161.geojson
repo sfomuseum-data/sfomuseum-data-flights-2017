@@ -2,6 +2,10 @@
   "id": 1679395161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-07",
+    "date:inception_upper": "2017-05-07",
     "edtf:cessation": "2017-05-07~",
     "edtf:inception": "2017-05-07T09:29:24",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170507-D-VRD-800",
     "sfomuseum:flight_number": [
-      "VX800", 
+      "VX800",
       "VRD800"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102087579, 
-      1679395161, 
-      85688637, 
-      102527513, 
-      102191575, 
+      85922583,
+      1159157271,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679395161,
-    "wof:lastmodified": 1583176264,
+    "wof:lastmodified": 1717022870,
     "wof:name": "VRD800 (SFO-KPDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

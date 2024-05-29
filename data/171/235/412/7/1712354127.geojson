@@ -2,6 +2,10 @@
   "id": 1712354127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-29",
+    "date:cessation_upper": "2017-12-29",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-29T10:05:08",
     "edtf:inception": "2017-12-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20171229-A-SWA-877",
     "sfomuseum:flight_number": [
-      "WN877", 
+      "WN877",
       "SWA877"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      85922583, 
-      102527513, 
-      1712354127, 
-      102087579, 
-      102191575, 
+      85688637,
+      1159157271,
+      85922583,
+      102527513,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712354127,
-    "wof:lastmodified": 1583180869,
+    "wof:lastmodified": 1717022847,
     "wof:name": "SWA877 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679761689,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-08",
+    "date:cessation_upper": "2017-08-08",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-08T21:04:45",
     "edtf:inception": "2017-08-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20170808-A-UAL-659",
     "sfomuseum:flight_number": [
-      "UA659", 
+      "UA659",
       "UAL659"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      1679761689
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      1159157271,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583178044,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679761689,
-    "wof:lastmodified": 1583178044,
+    "wof:lastmodified": 1717022888,
     "wof:name": "UAL659 (KDFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

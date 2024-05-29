@@ -2,6 +2,10 @@
   "id": 1695648885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-15",
+    "date:inception_upper": "2017-09-15",
     "edtf:cessation": "2017-09-15~",
     "edtf:inception": "2017-09-15T23:23:39",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170915-D-UAL-1532",
     "sfomuseum:flight_number": [
-      "UA1532", 
+      "UA1532",
       "UAL1532"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
-      1159157271, 
-      1695648885
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102527513,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583178805,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695648885,
-    "wof:lastmodified": 1583178805,
+    "wof:lastmodified": 1717022858,
     "wof:name": "UAL1532 (SFO-KIAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

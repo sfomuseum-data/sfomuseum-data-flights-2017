@@ -2,6 +2,10 @@
   "id": 1679582917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-26",
+    "date:inception_upper": "2017-06-26",
     "edtf:cessation": "2017-06-26~",
     "edtf:inception": "2017-06-26T11:12:45",
     "flysfo:airline": "Y4",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170626-D-VOI-998",
     "sfomuseum:flight_number": [
-      "Y4998", 
+      "Y4998",
       "VOI998"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85922583, 
-      85633793, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1679582917
+      102191575,
+      1159157271,
+      85922583,
+      85633793,
+      102527513,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177172,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679582917,
-    "wof:lastmodified": 1583177172,
+    "wof:lastmodified": 1717022878,
     "wof:name": "VOI998 (SFO-KEWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

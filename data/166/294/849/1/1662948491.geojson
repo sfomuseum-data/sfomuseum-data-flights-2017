@@ -2,6 +2,10 @@
   "id": 1662948491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-11",
+    "date:cessation_upper": "2017-12-11",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-11T08:51:07",
     "edtf:inception": "2017-12-11~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20171211-A-UAL-653",
     "sfomuseum:flight_number": [
-      "UA653", 
+      "UA653",
       "UAL653"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1662948491
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583180472,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662948491,
-    "wof:lastmodified": 1583180472,
+    "wof:lastmodified": 1717022913,
     "wof:name": "UAL653 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

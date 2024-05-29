@@ -2,6 +2,10 @@
   "id": 1678852425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-09",
+    "date:inception_upper": "2017-02-09",
     "edtf:cessation": "2017-02-09~",
     "edtf:inception": "2017-02-09T16:55:43",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170209-D-VRD-90",
     "sfomuseum:flight_number": [
-      "VX90", 
+      "VX90",
       "VRD90"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1678852425, 
-      85633793, 
+      102527513,
+      1159157271,
+      85688637,
+      102191575,
+      102087579,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678852425,
-    "wof:lastmodified": 1583174847,
+    "wof:lastmodified": 1717022850,
     "wof:name": "VRD90 (SFO-KIAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

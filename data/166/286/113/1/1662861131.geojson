@@ -2,6 +2,10 @@
   "id": 1662861131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-16",
+    "date:cessation_upper": "2017-11-16",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-16T13:44:34",
     "edtf:inception": "2017-11-16~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20171116-A-DAL-760",
     "sfomuseum:flight_number": [
-      "DL760", 
+      "DL760",
       "DAL760"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1662861131, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
+      102087579,
+      85633793,
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662861131,
-    "wof:lastmodified": 1583179998,
+    "wof:lastmodified": 1717022905,
     "wof:name": "DAL760 (KSEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

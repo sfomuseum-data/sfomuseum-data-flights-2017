@@ -2,6 +2,10 @@
   "id": 1679765577,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-09",
+    "date:cessation_upper": "2017-08-09",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-09T21:33:39",
     "edtf:inception": "2017-08-09~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20170809-A-VRD-867",
     "sfomuseum:flight_number": [
-      "VX867", 
+      "VX867",
       "VRD867"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102087579, 
-      1679765577, 
-      85633793, 
-      102191575, 
-      85922583, 
+      85688637,
+      1159157271,
+      102087579,
+      85633793,
+      102191575,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679765577,
-    "wof:lastmodified": 1583178064,
+    "wof:lastmodified": 1717022889,
     "wof:name": "VRD867 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

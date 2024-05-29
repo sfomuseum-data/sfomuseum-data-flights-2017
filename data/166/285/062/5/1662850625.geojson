@@ -2,6 +2,10 @@
   "id": 1662850625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-13",
+    "date:cessation_upper": "2017-11-13",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-13T18:57:50",
     "edtf:inception": "2017-11-13~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20171113-A-ASA-263",
     "sfomuseum:flight_number": [
-      "AS263", 
+      "AS263",
       "ASA263"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662850625, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
+      102191575,
+      102087579,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662850625,
-    "wof:lastmodified": 1583179943,
+    "wof:lastmodified": 1717022905,
     "wof:name": "ASA263 (MMSD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

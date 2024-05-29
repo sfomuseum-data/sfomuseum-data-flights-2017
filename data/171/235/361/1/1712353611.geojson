@@ -2,6 +2,10 @@
   "id": 1712353611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-29",
+    "date:cessation_upper": "2017-12-29",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-29T01:17:24",
     "edtf:inception": "2017-12-29~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20171229-A-AAL-2073",
     "sfomuseum:flight_number": [
-      "AA2073", 
+      "AA2073",
       "AAL2073"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1712353611
+      102087579,
+      1159157271,
+      85688637,
+      102191575,
+      85922583,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583180856,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712353611,
-    "wof:lastmodified": 1583180856,
+    "wof:lastmodified": 1717022898,
     "wof:name": "AAL2073 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

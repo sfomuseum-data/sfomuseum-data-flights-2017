@@ -2,6 +2,10 @@
   "id": 1679058917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-15",
+    "date:inception_upper": "2017-03-15",
     "edtf:cessation": "2017-03-15~",
     "edtf:inception": "2017-03-15T23:54:29",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170315-D-UAL-380T",
     "sfomuseum:flight_number": [
-      "UA380T", 
+      "UA380T",
       "UAL380T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
-      1679058917, 
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679058917,
-    "wof:lastmodified": 1583175385,
+    "wof:lastmodified": 1717022862,
     "wof:name": "UAL380T (SFO-KBOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695586895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-31",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-31~",
     "edtf:inception": "2017-08-31T09:21:48",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170831-D-DAL-1698",
     "sfomuseum:flight_number": [
-      "DL1698", 
+      "DL1698",
       "DAL1698"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      85633793, 
-      1695586895
+      102191575,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583178508,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695586895,
-    "wof:lastmodified": 1583178508,
+    "wof:lastmodified": 1717022853,
     "wof:name": "DAL1698 (SFO-KDTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

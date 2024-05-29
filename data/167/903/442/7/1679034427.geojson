@@ -2,6 +2,10 @@
   "id": 1679034427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-12",
+    "date:inception_upper": "2017-03-12",
     "edtf:cessation": "2017-03-12~",
     "edtf:inception": "2017-03-12T08:32:06",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170312-D-SWA-3757",
     "sfomuseum:flight_number": [
-      "WN3757", 
+      "WN3757",
       "SWA3757"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679034427, 
-      85922583, 
-      102191575, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159157271, 
+      85922583,
+      102191575,
+      85688637,
+      85633793,
+      102087579,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679034427,
-    "wof:lastmodified": 1583175325,
+    "wof:lastmodified": 1717022861,
     "wof:name": "SWA3757 (SFO-KMKE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]],"type":"MultiPoint"}

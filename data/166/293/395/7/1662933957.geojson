@@ -2,6 +2,10 @@
   "id": 1662933957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-07",
+    "date:inception_upper": "2017-12-07",
     "edtf:cessation": "2017-12-07~",
     "edtf:inception": "2017-12-07T09:24:20",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171207-D-AAL-2112",
     "sfomuseum:flight_number": [
-      "AA2112", 
+      "AA2112",
       "AAL2112"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      1662933957, 
-      85688637, 
-      102191575, 
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662933957,
-    "wof:lastmodified": 1583180399,
+    "wof:lastmodified": 1717022912,
     "wof:name": "AAL2112 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

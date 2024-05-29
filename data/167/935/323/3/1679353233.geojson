@@ -2,6 +2,10 @@
   "id": 1679353233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-25",
+    "date:cessation_upper": "2017-04-25",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-25T13:22:33",
     "edtf:inception": "2017-04-25~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170425-A-VRD-8526",
     "sfomuseum:flight_number": [
-      "VX8526", 
+      "VX8526",
       "VRD8526"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1679353233
+      85688637,
+      102527513,
+      102191575,
+      1159157271,
+      85633793,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583176062,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679353233,
-    "wof:lastmodified": 1583176062,
+    "wof:lastmodified": 1717022868,
     "wof:name": "VRD8526 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

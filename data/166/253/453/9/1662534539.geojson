@@ -2,6 +2,10 @@
   "id": 1662534539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-12",
+    "date:cessation_upper": "2017-06-12",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-12T05:25:03",
     "edtf:inception": "2017-06-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20170612-A-UAL-1746",
     "sfomuseum:flight_number": [
-      "UA1746", 
+      "UA1746",
       "UAL1746"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85633793, 
-      1662534539, 
-      85688637, 
-      102527513, 
+      102087579,
+      1159157271,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662534539,
-    "wof:lastmodified": 1583176888,
+    "wof:lastmodified": 1717022894,
     "wof:name": "UAL1746 (PHLI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

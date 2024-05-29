@@ -2,6 +2,10 @@
   "id": 1695684605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-25",
+    "date:inception_upper": "2017-09-25",
     "edtf:cessation": "2017-09-25~",
     "edtf:inception": "2017-09-25T14:20:21",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170925-D-UAL-647",
     "sfomuseum:flight_number": [
-      "UA647", 
+      "UA647",
       "UAL647"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102191575, 
-      1695684605, 
-      102527513, 
-      102087579, 
-      1159157271, 
+      85633793,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695684605,
-    "wof:lastmodified": 1583178979,
+    "wof:lastmodified": 1717022858,
     "wof:name": "UAL647 (SFO-KTPA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    27.972892, 
-    -82.530928, 
+    -122.370943,
+    27.972892,
+    -82.530928,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-82.530928,27.972892]],"type":"MultiPoint"}

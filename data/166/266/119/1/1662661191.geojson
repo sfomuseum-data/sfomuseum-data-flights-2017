@@ -2,6 +2,10 @@
   "id": 1662661191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-09",
+    "date:inception_upper": "2017-09-09",
     "edtf:cessation": "2017-09-09~",
     "edtf:inception": "2017-09-09T08:31:36",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170909-D-UAL-639",
     "sfomuseum:flight_number": [
-      "UA639", 
+      "UA639",
       "UAL639"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662661191, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85633793, 
-      102087579, 
+      85922583,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662661191,
-    "wof:lastmodified": 1583178677,
+    "wof:lastmodified": 1717022847,
     "wof:name": "UAL639 (SFO-KORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662890011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-25",
+    "date:cessation_upper": "2017-11-25",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-25T14:05:34",
     "edtf:inception": "2017-11-25~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20171125-A-DAL-2621",
     "sfomuseum:flight_number": [
-      "DL2621", 
+      "DL2621",
       "DAL2621"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662890011, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      102527513, 
+      85922583,
+      102087579,
+      85688637,
+      1159157271,
+      85633793,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662890011,
-    "wof:lastmodified": 1583180149,
+    "wof:lastmodified": 1717022905,
     "wof:name": "DAL2621 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

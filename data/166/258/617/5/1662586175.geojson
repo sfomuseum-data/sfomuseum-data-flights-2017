@@ -2,6 +2,10 @@
   "id": 1662586175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-23",
+    "date:inception_upper": "2017-02-23",
     "edtf:cessation": "2017-02-23~",
     "edtf:inception": "2017-02-23T11:12:57",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170223-D-UAL-1830",
     "sfomuseum:flight_number": [
-      "UA1830", 
+      "UA1830",
       "UAL1830"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1662586175
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583175051,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662586175,
-    "wof:lastmodified": 1583175051,
+    "wof:lastmodified": 1717022896,
     "wof:name": "UAL1830 (SFO-KBNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.126387, 
-    -86.676652, 
+    -122.370943,
+    36.126387,
+    -86.676652,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-86.676652,36.126387]],"type":"MultiPoint"}

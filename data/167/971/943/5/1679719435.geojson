@@ -2,6 +2,10 @@
   "id": 1679719435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-29",
+    "date:cessation_upper": "2017-07-29",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-29T15:57:30",
     "edtf:inception": "2017-07-29~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20170729-A-VRD-1747",
     "sfomuseum:flight_number": [
-      "VX1747", 
+      "VX1747",
       "VRD1747"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1679719435
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583177835,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679719435,
-    "wof:lastmodified": 1583177835,
+    "wof:lastmodified": 1717022890,
     "wof:name": "VRD1747 (KSEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

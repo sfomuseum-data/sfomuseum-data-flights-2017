@@ -2,6 +2,10 @@
   "id": 1662598463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-31",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-31T15:30:32",
     "edtf:inception": "2017-03-31~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528985,
     "sfomuseum:flight_id": "20170331-A-JBU-2236",
     "sfomuseum:flight_number": [
-      "B62236", 
+      "B62236",
       "JBU2236"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1662598463, 
-      85633793, 
+      85922583,
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662598463,
-    "wof:lastmodified": 1583175642,
+    "wof:lastmodified": 1717022899,
     "wof:name": "JBU2236 (KLGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.814039, 
-    -118.148993, 
+    -122.370943,
+    33.814039,
+    -118.148993,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.148993,33.814039],[-122.370943,37.61799]],"type":"MultiPoint"}

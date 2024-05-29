@@ -2,6 +2,10 @@
   "id": 1662853177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-14",
+    "date:cessation_upper": "2017-11-14",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-14T11:57:12",
     "edtf:inception": "2017-11-14~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20171114-A-UAL-2057",
     "sfomuseum:flight_number": [
-      "UA2057", 
+      "UA2057",
       "UAL2057"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      1662853177, 
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      102527513,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662853177,
-    "wof:lastmodified": 1583179956,
+    "wof:lastmodified": 1717022906,
     "wof:name": "UAL2057 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

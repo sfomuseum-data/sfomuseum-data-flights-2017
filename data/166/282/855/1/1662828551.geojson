@@ -2,6 +2,10 @@
   "id": 1662828551,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-07",
+    "date:cessation_upper": "2017-11-07",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-07T23:10:30",
     "edtf:inception": "2017-11-07~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20171107-A-DAL-2237",
     "sfomuseum:flight_number": [
-      "DL2237", 
+      "DL2237",
       "DAL2237"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1662828551, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159157271, 
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662828551,
-    "wof:lastmodified": 1583179829,
+    "wof:lastmodified": 1717022904,
     "wof:name": "DAL2237 (KSEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679193421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-03",
+    "date:cessation_upper": "2017-04-03",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-03T19:37:57",
     "edtf:inception": "2017-04-03~",
     "flysfo:airline": "WW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102553077,
     "sfomuseum:flight_id": "20170403-A-WOW-161",
     "sfomuseum:flight_number": [
-      "WW161", 
+      "WW161",
       "WOW161"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      1679193421
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583175696,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679193421,
-    "wof:lastmodified": 1583175696,
+    "wof:lastmodified": 1717022864,
     "wof:name": "WOW161 (BIKF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -22.585315, 
+    -122.370943,
+    37.61799,
+    -22.585315,
     63.983414
   ],
   "geometry": {"coordinates":[[-22.585315,63.983414],[-122.370943,37.61799]],"type":"MultiPoint"}

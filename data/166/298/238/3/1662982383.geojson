@@ -2,6 +2,10 @@
   "id": 1662982383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-03",
+    "date:cessation_upper": "2017-01-03",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-03T08:55:16",
     "edtf:inception": "2017-01-03~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170103-A-SWA-1973",
     "sfomuseum:flight_number": [
-      "WN1973", 
+      "WN1973",
       "SWA1973"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1662982383, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662982383,
-    "wof:lastmodified": 1583174312,
+    "wof:lastmodified": 1717022909,
     "wof:name": "SWA1973 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

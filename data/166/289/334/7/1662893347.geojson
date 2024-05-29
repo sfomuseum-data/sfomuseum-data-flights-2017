@@ -2,6 +2,10 @@
   "id": 1662893347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-26",
+    "date:cessation_upper": "2017-11-26",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-26T13:06:56",
     "edtf:inception": "2017-11-26~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20171126-A-VRD-1141",
     "sfomuseum:flight_number": [
-      "VX1141", 
+      "VX1141",
       "VRD1141"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1662893347
+      1159157271,
+      85633793,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583180166,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662893347,
-    "wof:lastmodified": 1583180166,
+    "wof:lastmodified": 1717022907,
     "wof:name": "VRD1141 (KPHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

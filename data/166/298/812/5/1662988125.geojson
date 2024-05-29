@@ -2,6 +2,10 @@
   "id": 1662988125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-04",
+    "date:cessation_upper": "2017-01-04",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-04T22:13:26",
     "edtf:inception": "2017-01-04~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170104-A-SWA-2366",
     "sfomuseum:flight_number": [
-      "WN2366", 
+      "WN2366",
       "SWA2366"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      1662988125
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85922583,
+      1159157271,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583174338,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662988125,
-    "wof:lastmodified": 1583174338,
+    "wof:lastmodified": 1717022911,
     "wof:name": "SWA2366 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

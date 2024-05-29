@@ -2,6 +2,10 @@
   "id": 1662611663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-08",
+    "date:cessation_upper": "2017-05-08",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-08T08:34:24",
     "edtf:inception": "2017-05-08~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20170508-A-VRD-219",
     "sfomuseum:flight_number": [
-      "VX219", 
+      "VX219",
       "VRD219"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1662611663, 
+      1159157271,
+      102191575,
+      102527513,
+      85688637,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662611663,
-    "wof:lastmodified": 1583176281,
+    "wof:lastmodified": 1717022896,
     "wof:name": "VRD219 (KAUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

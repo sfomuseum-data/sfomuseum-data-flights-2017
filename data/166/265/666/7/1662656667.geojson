@@ -2,6 +2,10 @@
   "id": 1662656667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-28",
+    "date:inception_upper": "2017-08-28",
     "edtf:cessation": "2017-08-28~",
     "edtf:inception": "2017-08-28T20:26:21",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170828-D-VRD-964",
     "sfomuseum:flight_number": [
-      "VX964", 
+      "VX964",
       "VRD964"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85688637, 
-      85922583, 
-      1662656667, 
-      102191575, 
-      85633793, 
+      1159157271,
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662656667,
-    "wof:lastmodified": 1583178459,
+    "wof:lastmodified": 1717022901,
     "wof:name": "VRD964 (SFO-KSAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662623655,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-10",
+    "date:inception_upper": "2017-06-10",
     "edtf:cessation": "2017-06-10~",
     "edtf:inception": "2017-06-10T14:26:37",
     "flysfo:airline": "FI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170610-D-ICE-794",
     "sfomuseum:flight_number": [
-      "FI794", 
+      "FI794",
       "ICE794"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1662623655, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662623655,
-    "wof:lastmodified": 1583176859,
+    "wof:lastmodified": 1717022898,
     "wof:name": "ICE794 (SFO-BIKF)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -22.585315, 
+    -122.370943,
+    37.61799,
+    -22.585315,
     63.983414
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-22.585315,63.983414]],"type":"MultiPoint"}

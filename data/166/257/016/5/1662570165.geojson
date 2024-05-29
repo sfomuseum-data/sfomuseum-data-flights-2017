@@ -2,6 +2,10 @@
   "id": 1662570165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-02",
+    "date:cessation_upper": "2017-01-02",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-02T18:11:40",
     "edtf:inception": "2017-01-02~",
     "flysfo:airline": "CZ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102550391,
     "sfomuseum:flight_id": "20170102-A-CSN-657",
     "sfomuseum:flight_number": [
-      "CZ657", 
+      "CZ657",
       "CSN657"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      1662570165
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583174303,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662570165,
-    "wof:lastmodified": 1583174303,
+    "wof:lastmodified": 1717022893,
     "wof:name": "CSN657 (ZGGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.447348, 
-    113.399556, 
+    -122.370943,
+    23.447348,
+    113.399556,
     37.61799
   ],
   "geometry": {"coordinates":[[113.399556,23.447348],[-122.370943,37.61799]],"type":"MultiPoint"}

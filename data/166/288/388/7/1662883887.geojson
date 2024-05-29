@@ -2,6 +2,10 @@
   "id": 1662883887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-23",
+    "date:cessation_upper": "2017-11-23",
+    "date:inception_lower": "2017-11-01",
+    "date:inception_upper": "2017-11-30",
     "edtf:cessation": "2017-11-23T13:22:04",
     "edtf:inception": "2017-11-23~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20171123-A-SWA-1635",
     "sfomuseum:flight_number": [
-      "WN1635", 
+      "WN1635",
       "SWA1635"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1662883887, 
+      1159157271,
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662883887,
-    "wof:lastmodified": 1583180116,
+    "wof:lastmodified": 1717022907,
     "wof:name": "SWA1635 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

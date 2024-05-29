@@ -2,6 +2,10 @@
   "id": 1679356887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-26",
+    "date:cessation_upper": "2017-04-26",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-26T14:45:54",
     "edtf:inception": "2017-04-26~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20170426-A-VRD-801",
     "sfomuseum:flight_number": [
-      "VX801", 
+      "VX801",
       "VRD801"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1679356887
+      1159157271,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583176079,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679356887,
-    "wof:lastmodified": 1583176079,
+    "wof:lastmodified": 1717022870,
     "wof:name": "VRD801 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

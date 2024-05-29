@@ -2,6 +2,10 @@
   "id": 1679549131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-18",
+    "date:inception_upper": "2017-06-18",
     "edtf:cessation": "2017-06-18~",
     "edtf:inception": "2017-06-18T06:16:03",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170618-D-DAL-2340",
     "sfomuseum:flight_number": [
-      "DL2340", 
+      "DL2340",
       "DAL2340"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1679549131, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      85633793, 
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      1159157271,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679549131,
-    "wof:lastmodified": 1583177007,
+    "wof:lastmodified": 1717022880,
     "wof:name": "DAL2340 (SFO-KSLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

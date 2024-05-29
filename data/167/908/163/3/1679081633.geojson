@@ -2,6 +2,10 @@
   "id": 1679081633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-01",
+    "date:cessation_upper": "2017-03-31",
+    "date:inception_lower": "2017-03-19",
+    "date:inception_upper": "2017-03-19",
     "edtf:cessation": "2017-03-19~",
     "edtf:inception": "2017-03-19T11:00:37",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170319-D-UAL-1682",
     "sfomuseum:flight_number": [
-      "UA1682", 
+      "UA1682",
       "UAL1682"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1679081633, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      85922583, 
+      102527513,
+      102191575,
+      85688637,
+      1159157271,
+      102087579,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679081633,
-    "wof:lastmodified": 1583175438,
+    "wof:lastmodified": 1717022861,
     "wof:name": "UAL1682 (SFO-KAUS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}

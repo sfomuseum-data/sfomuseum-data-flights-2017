@@ -2,6 +2,10 @@
   "id": 1662530083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-02",
+    "date:inception_upper": "2017-02-02",
     "edtf:cessation": "2017-02-02~",
     "edtf:inception": "2017-02-02T10:50:27",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170202-D-UAL-994",
     "sfomuseum:flight_number": [
-      "UA994", 
+      "UA994",
       "UAL994"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1662530083
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102087579,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583174742,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662530083,
-    "wof:lastmodified": 1583174742,
+    "wof:lastmodified": 1717022891,
     "wof:name": "UAL994 (SFO-KEWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

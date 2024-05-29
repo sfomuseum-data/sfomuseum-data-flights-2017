@@ -2,6 +2,10 @@
   "id": 1679077639,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-18",
+    "date:cessation_upper": "2017-03-18",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-18T18:36:50",
     "edtf:inception": "2017-03-18~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20170318-A-UAL-1195",
     "sfomuseum:flight_number": [
-      "UA1195", 
+      "UA1195",
       "UAL1195"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      1679077639, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159157271, 
+      102087579,
+      85633793,
+      85688637,
+      102191575,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679077639,
-    "wof:lastmodified": 1583175429,
+    "wof:lastmodified": 1717022863,
     "wof:name": "UAL1195 (MMSD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

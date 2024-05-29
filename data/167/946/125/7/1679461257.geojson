@@ -2,6 +2,10 @@
   "id": 1679461257,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-25",
+    "date:cessation_upper": "2017-05-25",
+    "date:inception_lower": "2017-05-01",
+    "date:inception_upper": "2017-05-31",
     "edtf:cessation": "2017-05-25T07:34:06",
     "edtf:inception": "2017-05-25~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20170525-A-UAL-1010",
     "sfomuseum:flight_number": [
-      "UA1010", 
+      "UA1010",
       "UAL1010"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1679461257, 
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679461257,
-    "wof:lastmodified": 1583176579,
+    "wof:lastmodified": 1717022872,
     "wof:name": "UAL1010 (KPHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662599005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-04-02",
+    "date:cessation_upper": "2017-04-02",
+    "date:inception_lower": "2017-04-01",
+    "date:inception_upper": "2017-04-30",
     "edtf:cessation": "2017-04-02T09:52:37",
     "edtf:inception": "2017-04-02~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20170402-A-UAL-2764",
     "sfomuseum:flight_number": [
-      "UA2764", 
+      "UA2764",
       "UAL2764"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159157271, 
-      85922583, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1662599005
+      85633793,
+      85688637,
+      1159157271,
+      85922583,
+      102087579,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175669,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662599005,
-    "wof:lastmodified": 1583175669,
+    "wof:lastmodified": 1717022900,
     "wof:name": "UAL2764 (CYVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

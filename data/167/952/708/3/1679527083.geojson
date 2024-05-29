@@ -2,6 +2,10 @@
   "id": 1679527083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-12",
+    "date:cessation_upper": "2017-06-12",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-12T17:08:45",
     "edtf:inception": "2017-06-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20170612-A-UAL-575",
     "sfomuseum:flight_number": [
-      "UA575", 
+      "UA575",
       "UAL575"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      1679527083, 
-      85633793, 
-      85922583, 
-      1159157271, 
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679527083,
-    "wof:lastmodified": 1583176901,
+    "wof:lastmodified": 1717022879,
     "wof:name": "UAL575 (KPHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

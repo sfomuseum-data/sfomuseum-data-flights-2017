@@ -2,6 +2,10 @@
   "id": 1678911319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-20",
+    "date:cessation_upper": "2017-02-20",
+    "date:inception_lower": "2017-02-01",
+    "date:inception_upper": "2017-02-28",
     "edtf:cessation": "2017-02-20T15:36:23",
     "edtf:inception": "2017-02-20~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20170220-A-VRD-345",
     "sfomuseum:flight_number": [
-      "VX345", 
+      "VX345",
       "VRD345"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1678911319, 
-      85688637, 
-      102191575, 
+      1159157271,
+      85633793,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678911319,
-    "wof:lastmodified": 1583175008,
+    "wof:lastmodified": 1717022856,
     "wof:name": "VRD345 (KFLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

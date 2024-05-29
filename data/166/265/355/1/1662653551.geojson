@@ -2,6 +2,10 @@
   "id": 1662653551,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-21",
+    "date:cessation_upper": "2017-08-21",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-21T18:47:44",
     "edtf:inception": "2017-08-21~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20170821-A-SWA-1841",
     "sfomuseum:flight_number": [
-      "WN1841", 
+      "WN1841",
       "SWA1841"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1662653551, 
-      102191575, 
+      1159157271,
+      102527513,
+      85633793,
+      85688637,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662653551,
-    "wof:lastmodified": 1583178311,
+    "wof:lastmodified": 1717022900,
     "wof:name": "SWA1841 (KSNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

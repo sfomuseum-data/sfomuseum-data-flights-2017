@@ -2,6 +2,10 @@
   "id": 1679555875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-19",
+    "date:cessation_upper": "2017-06-19",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-19T18:41:59",
     "edtf:inception": "2017-06-19~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20170619-A-VRD-593",
     "sfomuseum:flight_number": [
-      "VX593", 
+      "VX593",
       "VRD593"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      1679555875, 
-      85633793, 
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679555875,
-    "wof:lastmodified": 1583177040,
+    "wof:lastmodified": 1717022879,
     "wof:name": "VRD593 (KPSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

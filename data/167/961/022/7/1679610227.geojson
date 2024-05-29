@@ -2,6 +2,10 @@
   "id": 1679610227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-02",
+    "date:cessation_upper": "2017-07-02",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-02T00:14:05",
     "edtf:inception": "2017-07-02~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20170702-A-SWA-2993",
     "sfomuseum:flight_number": [
-      "WN2993", 
+      "WN2993",
       "SWA2993"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1679610227, 
-      1159157271, 
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679610227,
-    "wof:lastmodified": 1583177307,
+    "wof:lastmodified": 1717022880,
     "wof:name": "SWA2993 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

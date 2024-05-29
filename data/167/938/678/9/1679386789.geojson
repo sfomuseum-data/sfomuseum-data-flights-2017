@@ -2,6 +2,10 @@
   "id": 1679386789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-01",
+    "date:cessation_upper": "2017-05-31",
+    "date:inception_lower": "2017-05-04",
+    "date:inception_upper": "2017-05-04",
     "edtf:cessation": "2017-05-04~",
     "edtf:inception": "2017-05-04T21:03:28",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170504-D-SWA-3566",
     "sfomuseum:flight_number": [
-      "WN3566", 
+      "WN3566",
       "SWA3566"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1679386789, 
-      1159157271, 
-      102527513, 
+      102087579,
+      102191575,
+      85922583,
+      85633793,
+      1159157271,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679386789,
-    "wof:lastmodified": 1583176225,
+    "wof:lastmodified": 1717022870,
     "wof:name": "SWA3566 (SFO-KSNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

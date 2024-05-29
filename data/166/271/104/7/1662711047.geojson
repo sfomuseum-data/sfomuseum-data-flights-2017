@@ -2,6 +2,10 @@
   "id": 1662711047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-01",
+    "date:cessation_upper": "2017-10-31",
+    "date:inception_lower": "2017-10-07",
+    "date:inception_upper": "2017-10-07",
     "edtf:cessation": "2017-10-07~",
     "edtf:inception": "2017-10-07T17:54:08",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171007-D-UAL-312",
     "sfomuseum:flight_number": [
-      "UA312", 
+      "UA312",
       "UAL312"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1662711047
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583179228,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662711047,
-    "wof:lastmodified": 1583179228,
+    "wof:lastmodified": 1717022867,
     "wof:name": "UAL312 (SFO-KDFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

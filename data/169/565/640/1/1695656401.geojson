@@ -2,6 +2,10 @@
   "id": 1695656401,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-01",
+    "date:cessation_upper": "2017-09-30",
+    "date:inception_lower": "2017-09-18",
+    "date:inception_upper": "2017-09-18",
     "edtf:cessation": "2017-09-18~",
     "edtf:inception": "2017-09-18T00:32:33",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170918-D-AAL-1905",
     "sfomuseum:flight_number": [
-      "AA1905", 
+      "AA1905",
       "AAL1905"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1695656401
+      85922583,
+      85688637,
+      1159157271,
+      85633793,
+      102087579,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583178841,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695656401,
-    "wof:lastmodified": 1583178841,
+    "wof:lastmodified": 1717022857,
     "wof:name": "AAL1905 (SFO-KCLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

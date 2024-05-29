@@ -2,6 +2,10 @@
   "id": 1662631509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-29",
+    "date:cessation_upper": "2017-06-29",
+    "date:inception_lower": "2017-06-01",
+    "date:inception_upper": "2017-06-30",
     "edtf:cessation": "2017-06-29T18:57:22",
     "edtf:inception": "2017-06-29~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20170629-A-UAL-1839",
     "sfomuseum:flight_number": [
-      "UA1839", 
+      "UA1839",
       "UAL1839"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1662631509
+      102191575,
+      85633793,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177243,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662631509,
-    "wof:lastmodified": 1583177243,
+    "wof:lastmodified": 1717022898,
     "wof:name": "UAL1839 (KPHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

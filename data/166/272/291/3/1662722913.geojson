@@ -2,6 +2,10 @@
   "id": 1662722913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-10",
+    "date:cessation_upper": "2017-10-10",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-10T18:22:40",
     "edtf:inception": "2017-10-10~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20171010-A-UAL-1214",
     "sfomuseum:flight_number": [
-      "UA1214", 
+      "UA1214",
       "UAL1214"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1662722913
+      85633793,
+      102191575,
+      1159157271,
+      102527513,
+      85688637,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583179289,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662722913,
-    "wof:lastmodified": 1583179289,
+    "wof:lastmodified": 1717022873,
     "wof:name": "UAL1214 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

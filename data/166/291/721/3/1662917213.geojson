@@ -2,6 +2,10 @@
   "id": 1662917213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-02",
+    "date:cessation_upper": "2017-12-02",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-02T20:36:55",
     "edtf:inception": "2017-12-02~",
     "flysfo:airline": "CX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20171202-A-CPA-872",
     "sfomuseum:flight_number": [
-      "CX872", 
+      "CX872",
       "CPA872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1662917213
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583180314,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662917213,
-    "wof:lastmodified": 1583180314,
+    "wof:lastmodified": 1717022909,
     "wof:name": "CPA872 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

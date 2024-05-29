@@ -2,6 +2,10 @@
   "id": 1679729393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-01",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-01T06:54:03",
     "edtf:inception": "2017-08-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102551487,
     "sfomuseum:flight_id": "20170801-A-UAL-872",
     "sfomuseum:flight_number": [
-      "UA872", 
+      "UA872",
       "UAL872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679729393
+      102527513,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583177885,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679729393,
-    "wof:lastmodified": 1583177885,
+    "wof:lastmodified": 1717022890,
     "wof:name": "UAL872 (RCTP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}

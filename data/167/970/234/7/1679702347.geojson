@@ -2,6 +2,10 @@
   "id": 1679702347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-25",
+    "date:cessation_upper": "2017-07-25",
+    "date:inception_lower": "2017-07-01",
+    "date:inception_upper": "2017-07-31",
     "edtf:cessation": "2017-07-25T14:30:18",
     "edtf:inception": "2017-07-25~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20170725-A-SWA-264",
     "sfomuseum:flight_number": [
-      "WN264", 
+      "WN264",
       "SWA264"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      1679702347
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583177751,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679702347,
-    "wof:lastmodified": 1583177751,
+    "wof:lastmodified": 1717022886,
     "wof:name": "SWA264 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662669933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-09-27",
+    "date:cessation_upper": "2017-09-27",
+    "date:inception_lower": "2017-09-01",
+    "date:inception_upper": "2017-09-30",
     "edtf:cessation": "2017-09-27T11:19:06",
     "edtf:inception": "2017-09-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102544459,
     "sfomuseum:flight_id": "20170927-A-UAL-984",
     "sfomuseum:flight_number": [
-      "UA984", 
+      "UA984",
       "UAL984"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102087579, 
-      1662669933, 
-      85688637, 
-      102191575, 
-      1159157271, 
+      85922583,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662669933,
-    "wof:lastmodified": 1583179017,
+    "wof:lastmodified": 1717022851,
     "wof:name": "UAL984 (LFPG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.542809, 
+    -122.370943,
+    37.61799,
+    2.542809,
     49.007854
   ],
   "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}

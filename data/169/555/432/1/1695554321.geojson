@@ -2,6 +2,10 @@
   "id": 1695554321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-01",
+    "date:cessation_upper": "2017-08-31",
+    "date:inception_lower": "2017-08-23",
+    "date:inception_upper": "2017-08-23",
     "edtf:cessation": "2017-08-23~",
     "edtf:inception": "2017-08-23T18:26:32",
     "flysfo:airline": "SK",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170823-D-SAS-936",
     "sfomuseum:flight_number": [
-      "SK936", 
+      "SK936",
       "SAS936"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      1695554321, 
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      1159157271,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695554321,
-    "wof:lastmodified": 1583178353,
+    "wof:lastmodified": 1717022851,
     "wof:name": "SAS936 (SFO-EKCH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    12.649581, 
+    -122.370943,
+    37.61799,
+    12.649581,
     55.627628
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[12.649581,55.627628]],"type":"MultiPoint"}

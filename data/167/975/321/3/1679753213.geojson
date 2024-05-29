@@ -2,6 +2,10 @@
   "id": 1679753213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-06",
+    "date:cessation_upper": "2017-08-06",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-06T21:09:01",
     "edtf:inception": "2017-08-06~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20170806-A-AAL-2669",
     "sfomuseum:flight_number": [
-      "AA2669", 
+      "AA2669",
       "AAL2669"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1679753213, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      102527513, 
+      102087579,
+      85688637,
+      85922583,
+      102191575,
+      1159157271,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679753213,
-    "wof:lastmodified": 1583178000,
+    "wof:lastmodified": 1717022888,
     "wof:name": "AAL2669 (KMIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

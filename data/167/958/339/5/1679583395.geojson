@@ -2,6 +2,10 @@
   "id": 1679583395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-06-01",
+    "date:cessation_upper": "2017-06-30",
+    "date:inception_lower": "2017-06-26",
+    "date:inception_upper": "2017-06-26",
     "edtf:cessation": "2017-06-26~",
     "edtf:inception": "2017-06-26T13:09:21",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170626-D-SWA-3502",
     "sfomuseum:flight_number": [
-      "WN3502", 
+      "WN3502",
       "SWA3502"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1679583395
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583177174,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679583395,
-    "wof:lastmodified": 1583177174,
+    "wof:lastmodified": 1717022879,
     "wof:name": "SWA3502 (SFO-KMKE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1678793839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-30",
+    "date:cessation_upper": "2017-01-30",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-01-31",
     "edtf:cessation": "2017-01-30T06:19:15",
     "edtf:inception": "2017-01-30~",
     "flysfo:airline": "EY",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102558455,
     "sfomuseum:flight_id": "20170130-A-ETD-183",
     "sfomuseum:flight_number": [
-      "EY183", 
+      "EY183",
       "ETD183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1678793839, 
-      85688637, 
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678793839,
-    "wof:lastmodified": 1583174695,
+    "wof:lastmodified": 1717022848,
     "wof:name": "ETD183 (OMAA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    24.429616, 
-    54.649003, 
+    -122.370943,
+    24.429616,
+    54.649003,
     37.61799
   ],
   "geometry": {"coordinates":[[54.649003,24.429616],[-122.370943,37.61799]],"type":"MultiPoint"}

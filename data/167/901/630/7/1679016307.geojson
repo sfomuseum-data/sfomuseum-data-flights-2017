@@ -2,6 +2,10 @@
   "id": 1679016307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-09",
+    "date:cessation_upper": "2017-03-09",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-09T14:43:15",
     "edtf:inception": "2017-03-09~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20170309-A-VRD-351",
     "sfomuseum:flight_number": [
-      "VX351", 
+      "VX351",
       "VRD351"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      1679016307, 
-      85633793, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679016307,
-    "wof:lastmodified": 1583175283,
+    "wof:lastmodified": 1717022861,
     "wof:name": "VRD351 (KSJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

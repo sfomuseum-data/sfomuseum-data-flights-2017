@@ -2,6 +2,10 @@
   "id": 1662875013,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-11-01",
+    "date:cessation_upper": "2017-11-30",
+    "date:inception_lower": "2017-11-20",
+    "date:inception_upper": "2017-11-20",
     "edtf:cessation": "2017-11-20~",
     "edtf:inception": "2017-11-20T08:05:32",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171120-D-VRD-1012",
     "sfomuseum:flight_number": [
-      "VX1012", 
+      "VX1012",
       "VRD1012"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1662875013, 
-      1159157271, 
-      85922583, 
-      102191575, 
-      85633793, 
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662875013,
-    "wof:lastmodified": 1583180071,
+    "wof:lastmodified": 1717022908,
     "wof:name": "VRD1012 (SFO-KJFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662939073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2017-12-08",
+    "date:inception_upper": "2017-12-08",
     "edtf:cessation": "2017-12-08~",
     "edtf:inception": "2017-12-08T14:10:34",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171208-D-UAL-871",
     "sfomuseum:flight_number": [
-      "UA871", 
+      "UA871",
       "UAL871"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1662939073
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583180425,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662939073,
-    "wof:lastmodified": 1583180425,
+    "wof:lastmodified": 1717022913,
     "wof:name": "UAL871 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

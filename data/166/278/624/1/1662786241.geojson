@@ -2,6 +2,10 @@
   "id": 1662786241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-01",
+    "date:cessation_upper": "2017-10-31",
+    "date:inception_lower": "2017-10-26",
+    "date:inception_upper": "2017-10-26",
     "edtf:cessation": "2017-10-26~",
     "edtf:inception": "2017-10-26T21:44:48",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20171026-D-SWA-4733",
     "sfomuseum:flight_number": [
-      "WN4733", 
+      "WN4733",
       "SWA4733"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      102087579, 
-      1662786241, 
-      102527513, 
+      85922583,
+      102191575,
+      85633793,
+      1159157271,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662786241,
-    "wof:lastmodified": 1583179610,
+    "wof:lastmodified": 1717022902,
     "wof:name": "SWA4733 (SFO-KPHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

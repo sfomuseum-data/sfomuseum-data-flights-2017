@@ -2,6 +2,10 @@
   "id": 1679648637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-07-01",
+    "date:cessation_upper": "2017-07-31",
+    "date:inception_lower": "2017-07-12",
+    "date:inception_upper": "2017-07-12",
     "edtf:cessation": "2017-07-12~",
     "edtf:inception": "2017-07-12T14:21:12",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170712-D-UAL-194",
     "sfomuseum:flight_number": [
-      "UA194", 
+      "UA194",
       "UAL194"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1679648637, 
-      85922583, 
-      1159157271, 
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679648637,
-    "wof:lastmodified": 1583177492,
+    "wof:lastmodified": 1717022885,
     "wof:name": "UAL194 (SFO-EDDM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    11.776808, 
+    -122.370943,
+    37.61799,
+    11.776808,
     48.352681
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[11.776808,48.352681]],"type":"MultiPoint"}

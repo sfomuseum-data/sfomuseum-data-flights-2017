@@ -2,6 +2,10 @@
   "id": 1712338817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-18",
+    "date:cessation_upper": "2017-12-18",
+    "date:inception_lower": "2017-12-01",
+    "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2017-12-18T08:31:26",
     "edtf:inception": "2017-12-18~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20171218-A-VRD-1923",
     "sfomuseum:flight_number": [
-      "VX1923", 
+      "VX1923",
       "VRD1923"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1712338817, 
-      85922583, 
+      85633793,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1712338817,
-    "wof:lastmodified": 1583180618,
+    "wof:lastmodified": 1717022891,
     "wof:name": "VRD1923 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

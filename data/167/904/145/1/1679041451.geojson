@@ -2,6 +2,10 @@
   "id": 1679041451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-03-13",
+    "date:cessation_upper": "2017-03-13",
+    "date:inception_lower": "2017-03-01",
+    "date:inception_upper": "2017-03-31",
     "edtf:cessation": "2017-03-13T07:28:54",
     "edtf:inception": "2017-03-13~",
     "flysfo:airline": "AI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555709,
     "sfomuseum:flight_id": "20170313-A-AIC-173",
     "sfomuseum:flight_number": [
-      "AI173", 
+      "AI173",
       "AIC173"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1679041451, 
-      102191575, 
-      102527513, 
-      85633793, 
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679041451,
-    "wof:lastmodified": 1583175341,
+    "wof:lastmodified": 1717022861,
     "wof:name": "AIC173 (VIDP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.561954, 
-    77.098117, 
+    -122.370943,
+    28.561954,
+    77.098117,
     37.61799
   ],
   "geometry": {"coordinates":[[77.098117,28.561954],[-122.370943,37.61799]],"type":"MultiPoint"}

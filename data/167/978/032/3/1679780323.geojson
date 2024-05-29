@@ -2,6 +2,10 @@
   "id": 1679780323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-08-13",
+    "date:cessation_upper": "2017-08-13",
+    "date:inception_lower": "2017-08-01",
+    "date:inception_upper": "2017-08-31",
     "edtf:cessation": "2017-08-13T13:14:33",
     "edtf:inception": "2017-08-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20170813-A-UAL-3",
     "sfomuseum:flight_number": [
-      "UA3", 
+      "UA3",
       "UAL3"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1679780323, 
-      102191575, 
-      85633793, 
-      102527513, 
-      85922583, 
-      102087579, 
+      1159157271,
+      102191575,
+      85633793,
+      102527513,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679780323,
-    "wof:lastmodified": 1583178137,
+    "wof:lastmodified": 1717022888,
     "wof:name": "UAL3 (KIAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662787183,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-10-27",
+    "date:cessation_upper": "2017-10-27",
+    "date:inception_lower": "2017-10-01",
+    "date:inception_upper": "2017-10-31",
     "edtf:cessation": "2017-10-27T08:06:26",
     "edtf:inception": "2017-10-27~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20171027-A-VRD-1897",
     "sfomuseum:flight_number": [
-      "VX1897", 
+      "VX1897",
       "VRD1897"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1662787183
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583179616,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662787183,
-    "wof:lastmodified": 1583179616,
+    "wof:lastmodified": 1717022902,
     "wof:name": "VRD1897 (KLAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

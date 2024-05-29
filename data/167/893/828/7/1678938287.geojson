@@ -2,6 +2,10 @@
   "id": 1678938287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-02-01",
+    "date:cessation_upper": "2017-02-28",
+    "date:inception_lower": "2017-02-25",
+    "date:inception_upper": "2017-02-25",
     "edtf:cessation": "2017-02-25~",
     "edtf:inception": "2017-02-25T13:08:23",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20170225-D-UAL-414",
     "sfomuseum:flight_number": [
-      "UA414", 
+      "UA414",
       "UAL414"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1678938287
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583175086,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678938287,
-    "wof:lastmodified": 1583175086,
+    "wof:lastmodified": 1717022859,
     "wof:name": "UAL414 (SFO-KSLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2017",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
